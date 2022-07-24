@@ -474,7 +474,7 @@ img {
 
 .advantage-card {
   flex-direction: column;
-  width: width: calc((100% - (var(--gap) * 3)) / 2 );
+  width: 276px;
   height: 276px;
   margin-bottom: 22px;
   border-radius: 15px;
