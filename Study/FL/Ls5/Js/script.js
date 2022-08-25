@@ -59,3 +59,20 @@
 // let users = 5;
 // admins > users || users++;
 // console.log(users)
+
+
+// console.log(`558` > 22++);
+
+
+
+// let userCounter = 0;
+// let newUserCounter = userCounter++;
+// console.log(newUserCounter);
+
+
+// console.log(!false && 11 || 18 && !``);
+
+
+
+let name = 0;
+console.log(name ?? `No-name`);
