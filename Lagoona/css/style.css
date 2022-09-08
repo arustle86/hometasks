@@ -434,7 +434,7 @@ img {
 
 .services-bg-1 {
   background-image:
-    url(../img/services.background1.jpg);
+    url(/img/services.background1.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
