@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabs</title>
+    <link rel="stylesheet" href="../tabs/style.css">
+</head>
+
+<body>
+    <ul class="tabs-nav">
+        <li class="tabs-nav__item">
+            <button class="tabs-nav__btn tabs-nav__btn--active" data-path="one">Первый таб</button>
+        </li>
+        <li class="tabs-nav__item">
+            <button class="tabs-nav__btn tabs-nav__btn--active" data-path="two">Второй таб</button>
+        </li>
+        <li class="tabs-nav__item">
+            <button class="tabs-nav__btn tabs-nav__btn--active" data-path="three">Третий таб</button>
+        </li>
+    </ul>
+    <div class="tab-content">
+        <!-- элементы табов-->
+        <div class="tabs-item tabs-item--active" data-target="one">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit1.
+        </div>
+        <div class="tabs-item tabs-item--active" data-target="two">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit2.
+        </div>
+        <div class="tabs-item tabs-item--active" data-target="three">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit3.
+        </div>
+    </div>
+    <script src="../tabs/script.js"></script>
+</body>
+
+</html>
