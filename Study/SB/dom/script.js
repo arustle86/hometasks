@@ -2,9 +2,13 @@
 
 // text.style.color = `green`;
 
-document.querySelectorAll(`.text`).forEach(function(element) {
+document.querySelectorAll(`.text`).forEach(function (element) {
     element.style.color = `pink`;
 })
 
 let block = document.querySelector(`.block`);
-block.classList.add(`translate`);
+
+block.addEventListener(`click`, function () {
+    block.classList.add(`translate`);
+});
+
