@@ -1,0 +1,19 @@
+.accordion__content {
+    overflow: hidden;
+    visibility: hidden;
+    transition-property: height, visibility;
+    transition-timing-function: ease;
+}
+
+.accrdion--active .accordion__content {
+    visibility: visible;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.accordion__heading {
+    margin: 0;
+}
