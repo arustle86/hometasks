@@ -4,44 +4,26 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="dist/accordion.min.css">
+  <link rel="stylesheet" href="/css/style.css">
   <title>Accordion - Example</title>
 </head>
 <body>
-
-<div class="accordion-container">
-  <div class="ac">
-    <h2 class="ac-header">
-      <button class="ac-trigger">Lorem ipsum dolor sit amet.</button>
-    </h2>
-    <div class="ac-panel">
-      <p class="ac-text">Nulla et sodales nisl. Nam auctor quis odio eu congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-
-  <div class="ac">
-    <h2 class="ac-header">
-      <button class="ac-trigger">Lorem ipsum dolor sit amet.</button>
-    </h2>
-    <div class="ac-panel">
-      <p class="ac-text">Nulla et sodales nisl. Nam auctor quis odio eu congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-
-  <div class="ac">
-    <h2 class="ac-header">
-      <button class="ac-trigger">Lorem ipsum dolor sit amet.</button>
-    </h2>
-    <div class="ac-panel">
-      <p class="ac-text">Nulla et sodales nisl. Nam auctor quis odio eu congue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </div>
-  </div>
-</div>
-
-<script src="dist/accordion.min.js"></script>
-
-<script>
-  new Accordion('.accordion-container');
-</script>
-
+  <ul class="accordion-list">
+    <li class="list__item accordion">
+      <button class="accordion__control">Первый вариант</button>
+        <div class="accordion__content">
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        </div>
+    </li>
+    <li class="list__item accordion">
+      <button class="accordion__control">Второй вариант</button>
+        <div class="accordion__content">
+          <p>Unde eos voluptate illo beatae quo a eligendi nobis, sed, consectetur</p>
+          <p>Opsa eveniet atque eius nihil ratione natus repudiandae repellat architecto asperiores.</p>
+        </div>
+    </li>
+  </ul>
+  <script src="dist/accordion.min.js"></script>
+  <script src="/js/script.js"></script>
 </body>
 </html>
