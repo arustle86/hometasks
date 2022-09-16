@@ -1,0 +1,27 @@
+.btn-more {
+    display: none;
+    text-align: center;
+  }
+  
+  @media (max-width: 576px) {
+    .btn-more {
+      padding-top: 20px;
+      display: block;
+      text-align: center;
+    }
+
+    .grid-item:nth-child(-n + 2) {
+      display: none;
+    }
+
+    .btn-more--hidden {
+      display: none;
+    }
+
+    .grid-item.grid-item--visible {
+      display: block;
+    }
+  }
+
+
+  
