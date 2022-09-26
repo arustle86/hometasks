@@ -89,9 +89,30 @@
 //     console.log(f);
 // }
 
-const PSW = "password";
-let psw = null;
-do {
-  psw = prompt("Введите пароль", "");
-} while (psw != PSW);
-console.log("Вы вошли в систему!");
+// const PSW = "password";
+// let psw = null;
+// do {
+//   psw = prompt("Введите пароль", "");
+// } while (psw != PSW);
+// console.log("Вы вошли в систему!");
+
+// let s = 0,
+//   m = 10,
+//   n = 5;
+// for (let i = 1; i <= n; ++i) for (let j = 1; j <= m; ++j) s += i * j;
+// console.log("S = " + s);
+
+// let s = 0,
+//   m = 10,
+//   n = 5;
+// all: for (let i = 1; i <= n; ++i)
+//   for (let j = 1; j <= m; ++j) {
+//     if (j == 5) break all;
+//     s += i * j;
+//   }
+// console.log("S = " + s);
+
+// for (let i = -5; i <= 5; ++i) {
+//   if (i == 0) continue;
+//   console.log("i = " + i);
+// }
