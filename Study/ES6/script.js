@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 // let user = "Alex";
 //     age = 25;
@@ -30,12 +30,11 @@
 //         else {
 //             console.log(`x равен 0, `, sgn);
 //         }
-//     } 
+//     }
 
 // let age = 25;
 // let currentAge = age > 18;
 // console.log(currentAge);
-    
 
 // let x = 41;
 //     if (x > 2 && x < 7) {
@@ -60,8 +59,7 @@
 //     case 4: console.log(`no`);
 //     case 5: console.log(`no`);
 //     default: console.log(`another`);
-// } 
-
+// }
 
 // let s = 0, i = 1;
 //     while (i <= 1000) {
@@ -84,3 +82,16 @@
 //     for (let i = 1; i <= 1000; ++i) {
 //         s += 1 / i;
 //     } console.log(s);
+
+// let f, k = 0.5, b = 2;
+// for (let x = 0; x <= 1; x += 0.1) {
+//     f = k * x + b;
+//     console.log(f);
+// }
+
+const PSW = "password";
+let psw = null;
+do {
+  psw = prompt("Введите пароль", "");
+} while (psw != PSW);
+console.log("Вы вошли в систему!");
