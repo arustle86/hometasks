@@ -116,3 +116,14 @@
 //   if (i == 0) continue;
 //   console.log("i = " + i);
 // }
+
+// function outLog(msg) {
+//   console.log(msg);
+// }
+// outLog(1);
+// outLog(true);
+
+function showMassage(from, text) {
+  let msg = from + ": " + text;
+  console.log(msg);
+}
