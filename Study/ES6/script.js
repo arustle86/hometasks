@@ -123,7 +123,52 @@
 // outLog(1);
 // outLog(true);
 
-function showMassage(from, text) {
-  let msg = from + ": " + text;
-  console.log(msg);
+// function showMassage(from, text) {
+//   let msg = from + ": " + text;
+//   console.log(msg);
+// }
+// showMassage("Аня", "привет");
+// showMassage("Пароль", "не совподает");
+
+// function abc(x) {
+//   if (x < 0) x = -x;
+//   return x;
+// }
+
+// let res = abc(-5);
+// console.log(res);
+
+// function abc(x) {
+//   return x < 0 ? -x : x;
+// }
+
+// let res = abc(-5);
+// console.log(res);
+
+// function sum(a, b) {
+//   return a + b;
+// }
+// let res = sum(5, 6.7);
+// console.log(res);
+
+// function div(a, b) {
+//   return b == 0 ? Infinity : a / b;
+// }
+// let res = div(8, 0);
+// console.log(res);
+
+function showPrimes(n) {
+  for (let i = 2; i < n; i++) {
+    if (!isPrime(i)) continue;
+
+    console.log(i);
+  }
 }
+function isPrime(n) {
+  for (let i = 2; i < n; i++) {
+    if (n % i == 0) return false;
+  }
+  return true;
+}
+
+showPrimes(10);
