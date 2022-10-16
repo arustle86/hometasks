@@ -1,0 +1,54 @@
+.newsletter-form-3 .newsletter-email {
+    margin-right: 5px;
+    margin-left: 0px;   
+}
+.top-header .tophead-info li i {	
+	margin-right: 10px;	
+}
+
+.main-breadcrumb ul li::after {
+	content: none;
+}
+.main-breadcrumb ul li::before {
+	content: "\f105";
+	padding: 0 7px;
+	font-family: fontAwesome;
+	font-weight: 600;
+}
+.main-breadcrumb ul li:last-of-type::before {
+	display: none;
+}
+.rt-el-btn.rtin-style-1 a::after {
+	padding-left: 15px;	
+}
+
+.main-header .main-navigation-area .main-navigation ul li ul.sub-menu li.menu-item-has-children::after {
+	content: "\f104";	
+}
+.main-header .main-navigation-area .main-navigation ul li.mega-menu > ul.sub-menu li::after {
+	content: '';
+}
+
+@media (max-width: 991.98px){
+.mean-bar .header-icon-area {
+	    position: absolute;
+	    left: 15px;
+	    top: 11px;
+			z-index: 2;
+		}
+		.mean-container .mean-bar .mean-logo-area {    
+	    position: absolute;
+	    text-align: center;
+	    margin: auto;
+	    left: 0;
+	    right: 0;
+			z-index: 1;
+	}
+	.mean-container .mean-bar a.meanmenu-reveal {
+		z-index: 3;
+		right: 7px !important;
+	}	
+	.mean-container .mean-nav {
+		margin-top: 40px;
+	}
+}

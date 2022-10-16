@@ -1,0 +1,50 @@
+2022-10-02T05:16:52+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::getPaymentMethod() in /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php:717
+Stack trace:
+#0 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaWidgetGateway.php(167): YooKassaGateway->savePaymentData(Object(WP_Error), Object(WC_Order))
+#1 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): YooKassaWidgetGateway->process_payment(3845)
+#2 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment(3845, 'yookassa_widget')
+#3 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#4 [internal function]: WC_AJAX::checkout('')
+#5 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(307): call_user_func_array(Array, Array)
+#6 /home/k/kr в /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php на строке 717
+
+2022-10-02T05:58:19+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::getPaymentMethod() in /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php:717
+Stack trace:
+#0 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaWidgetGateway.php(167): YooKassaGateway->savePaymentData(Object(WP_Error), Object(WC_Order))
+#1 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(439): YooKassaWidgetGateway->process_payment(3845)
+#2 [internal function]: WC_Form_Handler::pay_action(Object(WP))
+#3 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(307): call_user_func_array(Array, Array)
+#4 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#6 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp.php(787): do_action_re в /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php на строке 717
+
+2022-10-02T05:58:31+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::getPaymentMethod() in /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php:717
+Stack trace:
+#0 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaWidgetGateway.php(167): YooKassaGateway->savePaymentData(Object(WP_Error), Object(WC_Order))
+#1 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(439): YooKassaWidgetGateway->process_payment(3845)
+#2 [internal function]: WC_Form_Handler::pay_action(Object(WP))
+#3 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(307): call_user_func_array(Array, Array)
+#4 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#5 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/plugin.php(524): WP_Hook->do_action(Array)
+#6 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp.php(787): do_action_re в /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php на строке 717
+
+2022-10-02T06:43:45+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::getPaymentMethod() in /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php:717
+Stack trace:
+#0 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaWidgetGateway.php(167): YooKassaGateway->savePaymentData(Object(WP_Error), Object(WC_Order))
+#1 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): YooKassaWidgetGateway->process_payment(3858)
+#2 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment(3858, 'yookassa_widget')
+#3 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#4 [internal function]: WC_AJAX::checkout('')
+#5 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(307): call_user_func_array(Array, Array)
+#6 /home/k/kr в /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php на строке 717
+
+2022-10-02T08:04:24+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::getPaymentMethod() in /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php:717
+Stack trace:
+#0 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaWidgetGateway.php(167): YooKassaGateway->savePaymentData(Object(WP_Error), Object(WC_Order))
+#1 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(982): YooKassaWidgetGateway->process_payment(3908)
+#2 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1206): WC_Checkout->process_order_payment(3908, 'yookassa_widget')
+#3 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(478): WC_Checkout->process_checkout()
+#4 [internal function]: WC_AJAX::checkout('')
+#5 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-includes/class-wp-hook.php(307): call_user_func_array(Array, Array)
+#6 /home/k/kr в /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/yookassa/gateway/YooKassaGateway.php на строке 717
+

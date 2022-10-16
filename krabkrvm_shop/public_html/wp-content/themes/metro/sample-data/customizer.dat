@@ -1,0 +1,25 @@
+a:4:{s:8:"template";s:5:"metro";s:4:"mods";a:4:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:7:"primary";i:32;s:8:"vertical";i:33;s:9:"offcanvas";i:96;}s:18:"custom_css_post_id";i:1501;s:16:"sidebars_widgets";a:2:{s:4:"time";i:1608700737;s:4:"data";a:8:{s:19:"wp_inactive_widgets";a:2:{i:0;s:12:"metro_post-2";i:1;s:15:"metro_socials-2";}s:7:"sidebar";a:3:{i:0;s:8:"search-2";i:1;s:12:"categories-2";i:2;s:11:"tag_cloud-3";}s:8:"footer-1";a:1:{i:0;s:13:"metro_about-2";}s:8:"footer-2";a:1:{i:0;s:10:"nav_menu-2";}s:8:"footer-3";a:1:{i:0;s:10:"nav_menu-3";}s:8:"footer-4";a:1:{i:0;s:10:"nav_menu-4";}s:35:"rdtheme-sidebar-woocommerce-sidebar";a:6:{i:0;s:28:"woocommerce_product_search-2";i:1;s:32:"woocommerce_product_categories-2";i:2;s:26:"woocommerce_price_filter-2";i:3;s:20:"metro_product_attr-2";i:4;s:20:"metro_product_attr-3";i:5;s:22:"woocommerce_products-2";}s:17:"product-left-area";a:1:{i:0;s:13:"media_image-2";}}}}s:7:"options";a:20:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:4:"date";s:30:"woocommerce_single_image_width";s:3:"570";s:33:"woocommerce_thumbnail_image_width";s:3:"360";s:30:"woocommerce_thumbnail_cropping";s:6:"custom";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"5";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"6";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:0:"";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:3:"379";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:608:".woocommerce div.product .single-add-to-cart-wrapper {   
+    width: 100%;
+}
+.ls-theme4 .ls-nav-prev {
+	left: 100px;
+}
+.ls-theme4 .ls-nav-next {
+    left: 172px;
+}
+.woocommerce .single-product-top-1 div.product p.price,
+ .woocommerce .single-product-top-1  div.product span.price{
+ 	font-size: 24px;
+    font-weight: 500;
+    color: #111;
+    margin-top: 20px;
+    display: block;
+ }
+
+.single-product-layout-1.woocommerce div.product p.price, .single-product-layout-1 .woocommerce div.product span.price {
+   font-size: 24px;
+    font-weight: 500;
+    color: #111;
+    margin-top: 20px;
+    display: block;
+}";}

@@ -1,0 +1,189 @@
+# Translation of Plugins - WooCommerce Side Cart - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WooCommerce Side Cart - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-16 02:53:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WooCommerce Side Cart - Stable (latest release)\n"
+
+#: admin/settings/class-xoo-wsc-advanced-settings.php:76
+msgid "Trigger Class"
+msgstr "Класс триггера"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:153
+msgid "Cotinue Button URL"
+msgstr "URL кнопки продолжить"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:103
+msgid "Reset Cart Form"
+msgstr "Форма сброса корзины"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:170
+msgid "Redirect to Cart"
+msgstr "Перейти в корзину"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:95
+msgid "Loading Icon"
+msgstr "Загрузка значка"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:209
+msgid "Hide Basket Pages"
+msgstr "Скрыть страницу корзины"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:201
+msgid "Basket on mobile"
+msgstr "Мобильная корзина"
+
+#. Author URI of the plugin
+msgid "http://xootix.com/"
+msgstr "http://xootix.com/"
+
+#. Author of the plugin
+msgid "XootiX"
+msgstr "XootiX"
+
+#. Description of the plugin
+msgid "Woo Side Cart shows all the items added to cart in a side popup.The plugin is ajax based."
+msgstr "Woo Side Cart показывает все товары, добавленные в корзину в боковом всплывающем окне. Плагин основан на ajax."
+
+#: xoo-wsc.php:95
+msgid "Side Cart WooCommerce is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "Side Cart WooCommerce включен, но не работает. Для его работы требуется WooCommerce."
+
+#: public/class-xoo-wsc-cart-data.php:153
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: public/partials/xoo-wsc-content.php:120
+msgid "Remove"
+msgstr "Удалить"
+
+#: public/partials/xoo-wsc-footer.php:9 public/partials/xoo-wsc-content.php:30
+msgid "Subtotal:"
+msgstr "Предварительный итог:"
+
+#: public/partials/xoo-wsc-content.php:8
+msgid "Your cart is empty."
+msgstr "Ваша корзина пуста."
+
+#: admin/settings/class-xoo-wsc-style-settings.php:199
+msgid "Count Text Color"
+msgstr "Цвет текста счётчика товара"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:191
+msgid "Count Background Color"
+msgstr "Цвет фона счётчика товара"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:183
+msgid "Basket Icon Size"
+msgstr "Размер значка корзины"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:175
+msgid "Basket Icon Color"
+msgstr "Цвет значка корзины"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:167
+msgid "Basket Background Color"
+msgstr "Цвет фона корзины"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:159
+msgid "Basket Position"
+msgstr "Позиция корзины"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:144
+msgid "Footer Buttons Margin"
+msgstr "Нижний колонтитул"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:129
+msgid "Product Image Width"
+msgstr "Ширина картинки товара"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:121
+msgid "Body Font Size"
+msgstr "Размер основного шрифта"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:113
+msgid "Container Width"
+msgstr "Ширина контейнера"
+
+#: admin/settings/class-xoo-wsc-style-settings.php:81
+msgid "Head Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: public/partials/xoo-wsc-footer.php:13
+#: admin/settings/class-xoo-wsc-general-settings.php:401
+msgid "Continue Shopping"
+msgstr "Продолжить покупки"
+
+#: public/partials/xoo-wsc-footer.php:12
+#: admin/settings/class-xoo-wsc-general-settings.php:384
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+#: public/partials/xoo-wsc-footer.php:11
+#: admin/settings/class-xoo-wsc-general-settings.php:368
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+#: public/partials/xoo-wsc-footer.php:10 public/partials/xoo-wsc-content.php:31
+#: admin/settings/class-xoo-wsc-general-settings.php:351
+msgid "To find out your shipping cost , Please proceed to checkout."
+msgstr "Чтобы узнать стоимость доставки, перейдите к оформлению заказа."
+
+#: public/partials/xoo-wsc-content.php:9
+#: admin/settings/class-xoo-wsc-general-settings.php:332
+msgid "Your Cart"
+msgstr "Ваша корзина"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:217
+msgid "Product Count"
+msgstr "Счётчик товара"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:185
+msgid "Enable Basket"
+msgstr "Включить корзину"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:162
+msgid "Product total"
+msgstr "Всего товаров"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:144
+msgid "Continue Button Text"
+msgstr "Текст кнопки продолжить"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:136
+msgid "Checkout Button Text"
+msgstr "Текст кнопки оформления заказа"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:128
+msgid "Cart Button Text"
+msgstr "Текст кнопки корзины"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:120
+msgid "Shipping Text"
+msgstr "Текст доставки"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:87
+msgid "Ajax Add to Cart"
+msgstr "AJAX добавить в корзину"
+
+#: admin/settings/class-xoo-wsc-advanced-settings.php:67
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:111
+msgid "Head Title"
+msgstr "Заголовок в шапке"
+
+#: admin/settings/class-xoo-wsc-general-settings.php:79
+msgid "Auto Open"
+msgstr "Автоматически открывать"
+
+#: admin/class-xoo-wsc-admin.php:87
+msgid "Woo Side Cart"
+msgstr "Woo Side Cart"

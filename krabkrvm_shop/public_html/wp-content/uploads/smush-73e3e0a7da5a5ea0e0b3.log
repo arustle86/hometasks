@@ -1,0 +1,472 @@
+[2021-12-28 07:14:30 : INFO] - Re_Smush_It_Task with attachment ID : 2647, autocreated on : December 28, 2021 07:14:30 
+[2021-12-28 07:14:32 : INFO] - Re_Smush_It_Task with attachment ID : 2648, autocreated on : December 28, 2021 07:14:32 
+[2021-12-28 07:14:33 : INFO] - Re_Smush_It_Task with attachment ID : 2649, autocreated on : December 28, 2021 07:14:33 
+[2021-12-28 07:21:18 : INFO] - 
+ 
+[2021-12-28 07:21:18 : INFO] - Header for logs at time:  Tue, 28 Dec 2021 07:21:18 +0000 on http://eventalk.test 
+[2021-12-28 07:21:18 : INFO] - WP: 5.8.2 
+[2021-12-28 07:21:18 : INFO] - PHP: 7.4.19 (apache2handler, Windows NT DESKTOP-O80QPJS 10.0 build 14393 (Windows 10) AMD64) 
+[2021-12-28 07:21:18 : INFO] - MySQL: 5.7.33 
+[2021-12-28 07:21:18 : INFO] - WPLANG: en_US 
+[2021-12-28 07:21:18 : INFO] - Server: Apache/2.4.47 (Win64) OpenSSL/1.1.1k PHP/7.4.19 
+[2021-12-28 07:21:18 : INFO] - Outbound connections: N 
+[2021-12-28 07:21:18 : INFO] - safe_mode: 0 
+[2021-12-28 07:21:18 : INFO] - max_execution_time: 36000 
+[2021-12-28 07:21:18 : INFO] - memory_limit: 512M (used: 63.3M | 8M) 
+[2021-12-28 07:21:18 : INFO] - multisite: N 
+[2021-12-28 07:21:18 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-12-28 07:21:18 : INFO] - A total of 142 tasks of type smush found and will be processed in this iteration 
+[2021-12-28 07:21:18 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2021-12-28 07:21:18 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2021-12-28 07:21:18 : INFO] - Processing task with ID : 195, and type 'smush' 
+[2021-12-28 07:21:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:18 : INFO] - 90 
+[2021-12-28 07:21:19 : INFO] - Backing up the original image - 2020/02/chari_1sss-updraft-pre-smush-original.jpg 
+[2021-12-28 07:21:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:19 : INFO] - 90 
+[2021-12-28 07:21:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:20 : INFO] - 90 
+[2021-12-28 07:21:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:22 : INFO] - 90 
+[2021-12-28 07:21:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:23 : INFO] - 90 
+[2021-12-28 07:21:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:24 : INFO] - 90 
+[2021-12-28 07:21:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:25 : INFO] - 90 
+[2021-12-28 07:21:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:26 : INFO] - 90 
+[2021-12-28 07:21:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:27 : INFO] - 90 
+[2021-12-28 07:21:28 : INFO] - Re_Smush_It_Task - Attachment ID : 1335, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:28 : INFO] - 90 
+[2021-12-28 07:21:29 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/chari_1sss.jpg.The file was compressed from 25.02 KB to 25.01 KB saving 0.01 percent using WP-Optimize 
+[2021-12-28 07:21:29 : INFO] - Completed processing task with ID : 195, and type 'smush' 
+[2021-12-28 07:21:29 : INFO] - Processing task with ID : 196, and type 'smush' 
+[2021-12-28 07:21:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:29 : INFO] - 90 
+[2021-12-28 07:21:36 : INFO] - Backing up the original image - 2020/02/chari_1s-updraft-pre-smush-original.jpg 
+[2021-12-28 07:21:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:36 : INFO] - 90 
+[2021-12-28 07:21:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:37 : INFO] - 90 
+[2021-12-28 07:21:41 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:41 : INFO] - 90 
+[2021-12-28 07:21:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:42 : INFO] - 90 
+[2021-12-28 07:21:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:43 : INFO] - 90 
+[2021-12-28 07:21:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:44 : INFO] - 90 
+[2021-12-28 07:21:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:45 : INFO] - 90 
+[2021-12-28 07:21:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:49 : INFO] - 90 
+[2021-12-28 07:21:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1334, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:53 : INFO] - 90 
+[2021-12-28 07:21:54 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/chari_1s.jpg.The file was compressed from 22.56 KB to 22.56 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:21:54 : INFO] - Completed processing task with ID : 196, and type 'smush' 
+[2021-12-28 07:21:54 : INFO] - Processing task with ID : 197, and type 'smush' 
+[2021-12-28 07:21:54 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:54 : INFO] - 90 
+[2021-12-28 07:21:55 : INFO] - Backing up the original image - 2020/02/chari_1-updraft-pre-smush-original.jpg 
+[2021-12-28 07:21:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:55 : INFO] - 90 
+[2021-12-28 07:21:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:56 : INFO] - 90 
+[2021-12-28 07:21:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:56 : INFO] - 90 
+[2021-12-28 07:21:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:58 : INFO] - 90 
+[2021-12-28 07:21:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:59 : INFO] - 90 
+[2021-12-28 07:21:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:21:59 : INFO] - 90 
+[2021-12-28 07:22:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:01 : INFO] - 90 
+[2021-12-28 07:22:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:01 : INFO] - 90 
+[2021-12-28 07:22:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1333, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:02 : INFO] - 90 
+[2021-12-28 07:22:03 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/chari_1.jpg.The file was compressed from 22.53 KB to 22.53 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:22:03 : INFO] - Completed processing task with ID : 197, and type 'smush' 
+[2021-12-28 07:22:03 : INFO] - Processing task with ID : 198, and type 'smush' 
+[2021-12-28 07:22:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:03 : INFO] - 90 
+[2021-12-28 07:22:04 : INFO] - Backing up the original image - 2020/02/chari_1ss-updraft-pre-smush-original.jpg 
+[2021-12-28 07:22:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:04 : INFO] - 90 
+[2021-12-28 07:22:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:05 : INFO] - 90 
+[2021-12-28 07:22:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:06 : INFO] - 90 
+[2021-12-28 07:22:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:07 : INFO] - 90 
+[2021-12-28 07:22:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:08 : INFO] - 90 
+[2021-12-28 07:22:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:12 : INFO] - 90 
+[2021-12-28 07:22:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:13 : INFO] - 90 
+[2021-12-28 07:22:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:14 : INFO] - 90 
+[2021-12-28 07:22:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1332, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:15 : INFO] - 90 
+[2021-12-28 07:22:16 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/chari_1ss.jpg.The file was compressed from 22.82 KB to 22.82 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:22:16 : INFO] - Completed processing task with ID : 198, and type 'smush' 
+[2021-12-28 07:22:16 : INFO] - Processing task with ID : 199, and type 'smush' 
+[2021-12-28 07:22:16 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:16 : INFO] - 90 
+[2021-12-28 07:22:17 : INFO] - Backing up the original image - 2020/02/482x457-updraft-pre-smush-original.jpg 
+[2021-12-28 07:22:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:17 : INFO] - 90 
+[2021-12-28 07:22:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:18 : INFO] - 90 
+[2021-12-28 07:22:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:22 : INFO] - 90 
+[2021-12-28 07:22:23 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:23 : INFO] - 90 
+[2021-12-28 07:22:27 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:27 : INFO] - 90 
+[2021-12-28 07:22:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1315, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:29 : INFO] - 90 
+[2021-12-28 07:22:30 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/482x457.jpg.The file was compressed from 37.85 KB to 37.85 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:22:30 : INFO] - Completed processing task with ID : 199, and type 'smush' 
+[2021-12-28 07:22:30 : INFO] - Processing task with ID : 200, and type 'smush' 
+[2021-12-28 07:22:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:30 : INFO] - 90 
+[2021-12-28 07:22:31 : INFO] - Backing up the original image - 2020/02/slider_11-updraft-pre-smush-original.jpg 
+[2021-12-28 07:22:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:31 : INFO] - 90 
+[2021-12-28 07:22:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:32 : INFO] - 90 
+[2021-12-28 07:22:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:33 : INFO] - 90 
+[2021-12-28 07:22:34 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:34 : INFO] - 90 
+[2021-12-28 07:22:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:35 : INFO] - 90 
+[2021-12-28 07:22:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:37 : INFO] - 90 
+[2021-12-28 07:22:42 : INFO] - Re_Smush_It_Task - Attachment ID : 1312, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:42 : INFO] - 90 
+[2021-12-28 07:22:43 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/slider_11.jpg.The file was compressed from 50.16 KB to 49.87 KB saving 0.59 percent using WP-Optimize 
+[2021-12-28 07:22:43 : INFO] - Completed processing task with ID : 200, and type 'smush' 
+[2021-12-28 07:22:43 : INFO] - Processing task with ID : 201, and type 'smush' 
+[2021-12-28 07:22:43 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:43 : INFO] - 90 
+[2021-12-28 07:22:45 : INFO] - Backing up the original image - 2020/02/bench-accounting-scaled-updraft-pre-smush-original.jpg 
+[2021-12-28 07:22:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:45 : INFO] - 90 
+[2021-12-28 07:22:49 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:49 : INFO] - 90 
+[2021-12-28 07:22:50 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:50 : INFO] - 90 
+[2021-12-28 07:22:51 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:51 : INFO] - 90 
+[2021-12-28 07:22:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:55 : INFO] - 90 
+[2021-12-28 07:22:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:22:59 : INFO] - 90 
+[2021-12-28 07:23:01 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:01 : INFO] - 90 
+[2021-12-28 07:23:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:02 : INFO] - 90 
+[2021-12-28 07:23:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:03 : INFO] - 90 
+[2021-12-28 07:23:04 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:04 : INFO] - 90 
+[2021-12-28 07:23:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:05 : INFO] - 90 
+[2021-12-28 07:23:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:06 : INFO] - 90 
+[2021-12-28 07:23:07 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:07 : INFO] - 90 
+[2021-12-28 07:23:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:08 : INFO] - 90 
+[2021-12-28 07:23:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1309, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:12 : INFO] - 90 
+[2021-12-28 07:23:13 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/02/bench-accounting-scaled.jpg.The file was compressed from 137.37 KB to 137.37 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:23:13 : INFO] - Completed processing task with ID : 201, and type 'smush' 
+[2021-12-28 07:23:13 : INFO] - Processing task with ID : 202, and type 'smush' 
+[2021-12-28 07:23:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:13 : INFO] - 90 
+[2021-12-28 07:23:14 : INFO] - Backing up the original image - 2020/01/vr-updraft-pre-smush-original.jpg 
+[2021-12-28 07:23:14 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:14 : INFO] - 90 
+[2021-12-28 07:23:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:15 : INFO] - 90 
+[2021-12-28 07:23:15 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:15 : INFO] - 90 
+[2021-12-28 07:23:17 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:17 : INFO] - 90 
+[2021-12-28 07:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:18 : INFO] - 90 
+[2021-12-28 07:23:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:18 : INFO] - 90 
+[2021-12-28 07:23:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:19 : INFO] - 90 
+[2021-12-28 07:23:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:20 : INFO] - 90 
+[2021-12-28 07:23:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:25 : INFO] - 90 
+[2021-12-28 07:23:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1279, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:26 : INFO] - 90 
+[2021-12-28 07:23:27 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2020/01/vr.jpg.The file was compressed from 11.16 KB to 11.16 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:23:27 : INFO] - Completed processing task with ID : 202, and type 'smush' 
+[2021-12-28 07:23:27 : INFO] - Processing task with ID : 203, and type 'smush' 
+[2021-12-28 07:23:27 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:27 : INFO] - 90 
+[2021-12-28 07:23:34 : INFO] - Backing up the original image - 2019/03/p_14-updraft-pre-smush-original.jpg 
+[2021-12-28 07:23:34 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:34 : INFO] - 90 
+[2021-12-28 07:23:35 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:35 : INFO] - 90 
+[2021-12-28 07:23:36 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:36 : INFO] - 90 
+[2021-12-28 07:23:40 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:40 : INFO] - 90 
+[2021-12-28 07:23:41 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:41 : INFO] - 90 
+[2021-12-28 07:23:45 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:45 : INFO] - 90 
+[2021-12-28 07:23:46 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:46 : INFO] - 90 
+[2021-12-28 07:23:48 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:48 : INFO] - 90 
+[2021-12-28 07:23:48 : INFO] - Re_Smush_It_Task - Attachment ID : 27, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:48 : INFO] - 90 
+[2021-12-28 07:23:49 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/p_14.jpg.The file was compressed from 24.72 KB to 24.69 KB saving 0.16 percent using WP-Optimize 
+[2021-12-28 07:23:49 : INFO] - Completed processing task with ID : 203, and type 'smush' 
+[2021-12-28 07:23:49 : INFO] - Processing task with ID : 204, and type 'smush' 
+[2021-12-28 07:23:49 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:49 : INFO] - 90 
+[2021-12-28 07:23:51 : INFO] - Backing up the original image - 2019/03/p_2-2-updraft-pre-smush-original.jpg 
+[2021-12-28 07:23:51 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:51 : INFO] - 90 
+[2021-12-28 07:23:55 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:55 : INFO] - 90 
+[2021-12-28 07:23:56 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:56 : INFO] - 90 
+[2021-12-28 07:23:57 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:23:57 : INFO] - 90 
+[2021-12-28 07:24:01 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:01 : INFO] - 90 
+[2021-12-28 07:24:02 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:02 : INFO] - 90 
+[2021-12-28 07:24:03 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:03 : INFO] - 90 
+[2021-12-28 07:24:04 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:04 : INFO] - 90 
+[2021-12-28 07:24:05 : INFO] - Re_Smush_It_Task - Attachment ID : 38, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:05 : INFO] - 90 
+[2021-12-28 07:24:06 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/p_2-2.jpg.The file was compressed from 27.84 KB to 27.68 KB saving 0.56 percent using WP-Optimize 
+[2021-12-28 07:24:06 : INFO] - Completed processing task with ID : 204, and type 'smush' 
+[2021-12-28 07:24:06 : INFO] - Processing task with ID : 205, and type 'smush' 
+[2021-12-28 07:24:06 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:06 : INFO] - 90 
+[2021-12-28 07:24:07 : INFO] - Backing up the original image - 2019/03/p_7-updraft-pre-smush-original.jpg 
+[2021-12-28 07:24:07 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:07 : INFO] - 90 
+[2021-12-28 07:24:08 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:08 : INFO] - 90 
+[2021-12-28 07:24:10 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:10 : INFO] - 90 
+[2021-12-28 07:24:11 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:11 : INFO] - 90 
+[2021-12-28 07:24:12 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:12 : INFO] - 90 
+[2021-12-28 07:24:13 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:13 : INFO] - 90 
+[2021-12-28 07:24:17 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:17 : INFO] - 90 
+[2021-12-28 07:24:18 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:18 : INFO] - 90 
+[2021-12-28 07:24:20 : INFO] - Re_Smush_It_Task - Attachment ID : 29, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:20 : INFO] - 90 
+[2021-12-28 07:24:23 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/p_7.jpg.The file was compressed from 29.79 KB to 29.76 KB saving 0.1 percent using WP-Optimize 
+[2021-12-28 07:24:23 : INFO] - Completed processing task with ID : 205, and type 'smush' 
+[2021-12-28 07:24:23 : INFO] - Processing task with ID : 206, and type 'smush' 
+[2021-12-28 07:24:23 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:23 : INFO] - 90 
+[2021-12-28 07:24:25 : INFO] - Backing up the original image - 2019/03/blog_8-updraft-pre-smush-original.jpg 
+[2021-12-28 07:24:25 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:25 : INFO] - 90 
+[2021-12-28 07:24:26 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:26 : INFO] - 90 
+[2021-12-28 07:24:27 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:27 : INFO] - 90 
+[2021-12-28 07:24:28 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:28 : INFO] - 90 
+[2021-12-28 07:24:34 : INFO] - Task with ID 206 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-12-28 07:24:34 : INFO] - data: {"src":"http:\/\/par2.static.resmush.it\/f6a5e1697bc847719d09af1844b67f83\/_src_blog_8-1024x512.jpg","dest":"http:\/\/par2.static.resmush.it\/f6a5e1697bc847719d09af1844b67f83\/blog_8-1024x512.jpg","src_size":52409,"dest_size":49516,"percent":6,"output":"json","expires":"Tue, 28 Dec 2021 08:29:30 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-12-28 07:24:34 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:34 : INFO] - 90 
+[2021-12-28 07:24:35 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:35 : INFO] - 90 
+[2021-12-28 07:24:36 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:36 : INFO] - 90 
+[2021-12-28 07:24:38 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:38 : INFO] - 90 
+[2021-12-28 07:24:42 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:42 : INFO] - 90 
+[2021-12-28 07:24:43 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:43 : INFO] - 90 
+[2021-12-28 07:24:44 : INFO] - Re_Smush_It_Task - Attachment ID : 141, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:44 : INFO] - 90 
+[2021-12-28 07:24:45 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/blog_8.jpg.The file was compressed from 85.12 KB to 84.82 KB saving 0.35 percent using WP-Optimize 
+[2021-12-28 07:24:45 : INFO] - Completed processing task with ID : 206, and type 'smush' 
+[2021-12-28 07:24:45 : INFO] - Processing task with ID : 207, and type 'smush' 
+[2021-12-28 07:24:45 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:45 : INFO] - 90 
+[2021-12-28 07:24:47 : INFO] - Backing up the original image - 2019/03/blog_4-updraft-pre-smush-original.jpg 
+[2021-12-28 07:24:47 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:47 : INFO] - 90 
+[2021-12-28 07:24:49 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:49 : INFO] - 90 
+[2021-12-28 07:24:53 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:53 : INFO] - 90 
+[2021-12-28 07:24:57 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:57 : INFO] - 90 
+[2021-12-28 07:24:59 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:24:59 : INFO] - 90 
+[2021-12-28 07:25:00 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:00 : INFO] - 90 
+[2021-12-28 07:25:02 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:02 : INFO] - 90 
+[2021-12-28 07:25:03 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:03 : INFO] - 90 
+[2021-12-28 07:25:04 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:04 : INFO] - 90 
+[2021-12-28 07:25:06 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:06 : INFO] - 90 
+[2021-12-28 07:25:07 : INFO] - Re_Smush_It_Task - Attachment ID : 137, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:07 : INFO] - 90 
+[2021-12-28 07:25:08 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/blog_4.jpg.The file was compressed from 168.66 KB to 167.60 KB saving 0.63 percent using WP-Optimize 
+[2021-12-28 07:25:08 : INFO] - Completed processing task with ID : 207, and type 'smush' 
+[2021-12-28 07:25:08 : INFO] - Processing task with ID : 208, and type 'smush' 
+[2021-12-28 07:25:08 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:08 : INFO] - 90 
+[2021-12-28 07:25:15 : INFO] - Backing up the original image - 2019/03/blog_5-updraft-pre-smush-original.jpg 
+[2021-12-28 07:25:15 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:15 : INFO] - 90 
+[2021-12-28 07:25:17 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:17 : INFO] - 90 
+[2021-12-28 07:25:21 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:21 : INFO] - 90 
+[2021-12-28 07:25:22 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:22 : INFO] - 90 
+[2021-12-28 07:25:23 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:23 : INFO] - 90 
+[2021-12-28 07:25:27 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:27 : INFO] - 90 
+[2021-12-28 07:25:28 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:28 : INFO] - 90 
+[2021-12-28 07:25:29 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:29 : INFO] - 90 
+[2021-12-28 07:25:33 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:33 : INFO] - 90 
+[2021-12-28 07:25:34 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:34 : INFO] - 90 
+[2021-12-28 07:25:35 : INFO] - Re_Smush_It_Task - Attachment ID : 138, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:35 : INFO] - 90 
+[2021-12-28 07:25:36 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/blog_5.jpg.The file was compressed from 37.49 KB to 37.39 KB saving 0.27 percent using WP-Optimize 
+[2021-12-28 07:25:36 : INFO] - Completed processing task with ID : 208, and type 'smush' 
+[2021-12-28 07:25:36 : INFO] - Processing task with ID : 209, and type 'smush' 
+[2021-12-28 07:25:36 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:36 : INFO] - 90 
+[2021-12-28 07:25:37 : INFO] - Backing up the original image - 2019/03/p_2-1-updraft-pre-smush-original.jpg 
+[2021-12-28 07:25:37 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:37 : INFO] - 90 
+[2021-12-28 07:25:41 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:41 : INFO] - 90 
+[2021-12-28 07:25:41 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:41 : INFO] - 90 
+[2021-12-28 07:25:43 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:43 : INFO] - 90 
+[2021-12-28 07:25:45 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:45 : INFO] - 90 
+[2021-12-28 07:25:49 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:49 : INFO] - 90 
+[2021-12-28 07:25:50 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:50 : INFO] - 90 
+[2021-12-28 07:25:51 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:51 : INFO] - 90 
+[2021-12-28 07:25:52 : INFO] - Re_Smush_It_Task - Attachment ID : 22, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:52 : INFO] - 90 
+[2021-12-28 07:25:53 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/03/p_2-1.jpg.The file was compressed from 37.39 KB to 37.19 KB saving 0.54 percent using WP-Optimize 
+[2021-12-28 07:25:53 : INFO] - Completed processing task with ID : 209, and type 'smush' 
+[2021-12-28 07:25:53 : INFO] - Processing task with ID : 210, and type 'smush' 
+[2021-12-28 07:25:53 : INFO] - Re_Smush_It_Task - Attachment ID : 1182, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:53 : INFO] - 90 
+[2021-12-28 07:25:55 : INFO] - Backing up the original image - 2019/11/Untitled-1-updraft-pre-smush-original.png 
+[2021-12-28 07:25:55 : INFO] - Re_Smush_It_Task - Attachment ID : 1182, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:55 : INFO] - 90 
+[2021-12-28 07:25:56 : INFO] - Re_Smush_It_Task - Attachment ID : 1182, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:56 : INFO] - 90 
+[2021-12-28 07:25:57 : INFO] - Re_Smush_It_Task - Attachment ID : 1182, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:57 : INFO] - 90 
+[2021-12-28 07:25:59 : INFO] - Re_Smush_It_Task - Attachment ID : 1182, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:25:59 : INFO] - 90 
+[2021-12-28 07:26:02 : INFO] - Re_Smush_It_Task - Attachment ID : 1182, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:02 : INFO] - 90 
+[2021-12-28 07:26:03 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/11/Untitled-1.png.The file was compressed from 62.50 KB to 62.50 KB saving 0 percent using WP-Optimize 
+[2021-12-28 07:26:03 : INFO] - Completed processing task with ID : 210, and type 'smush' 
+[2021-12-28 07:26:03 : INFO] - Processing task with ID : 211, and type 'smush' 
+[2021-12-28 07:26:03 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:03 : INFO] - 90 
+[2021-12-28 07:26:05 : INFO] - Backing up the original image - 2019/01/jacket_4-updraft-pre-smush-original.jpg 
+[2021-12-28 07:26:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:05 : INFO] - 90 
+[2021-12-28 07:26:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:06 : INFO] - 90 
+[2021-12-28 07:26:06 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:06 : INFO] - 90 
+[2021-12-28 07:26:08 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:08 : INFO] - 90 
+[2021-12-28 07:26:09 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:09 : INFO] - 90 
+[2021-12-28 07:26:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:10 : INFO] - 90 
+[2021-12-28 07:26:11 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:11 : INFO] - 90 
+[2021-12-28 07:26:12 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:12 : INFO] - 90 
+[2021-12-28 07:26:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:13 : INFO] - 90 
+[2021-12-28 07:26:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:18 : INFO] - 90 
+[2021-12-28 07:26:19 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:19 : INFO] - 90 
+[2021-12-28 07:26:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1276, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:20 : INFO] - 90 
+[2021-12-28 07:26:21 : INFO] - Successfully optimized the image - C:\laragon\www\eventalk/wp-content/uploads/2019/01/jacket_4.jpg.The file was compressed from 48.96 KB to 48.95 KB saving 0.02 percent using WP-Optimize 
+[2021-12-28 07:26:21 : INFO] - Completed processing task with ID : 211, and type 'smush' 
+[2021-12-28 07:26:21 : INFO] - Processing task with ID : 212, and type 'smush' 
+[2021-12-28 07:26:21 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:21 : INFO] - 90 
+[2021-12-28 07:26:22 : INFO] - Backing up the original image - 2019/01/jacket_3-updraft-pre-smush-original.jpg 
+[2021-12-28 07:26:22 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:22 : INFO] - 90 
+[2021-12-28 07:26:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:26 : INFO] - 90 
+[2021-12-28 07:26:30 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:30 : INFO] - 90 
+[2021-12-28 07:26:31 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:31 : INFO] - 90 
+[2021-12-28 07:26:33 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:33 : INFO] - 90 
+[2021-12-28 07:26:36 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:36 : INFO] - 90 
+[2021-12-28 07:26:37 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:37 : INFO] - 90 
+[2021-12-28 07:26:38 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:38 : INFO] - 90 
+[2021-12-28 07:26:39 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:39 : INFO] - 90 
+[2021-12-28 07:26:44 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:44 : INFO] - 90 
+[2021-12-28 07:26:45 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:45 : INFO] - 90 
+[2021-12-28 07:26:46 : INFO] - Re_Smush_It_Task - Attachment ID : 1275, Started on : March 12, 2021 11:13:22 
+[2021-12-28 07:26:46 : INFO] - 90 

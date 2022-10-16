@@ -1,0 +1,226 @@
+/*---------------------------------------------
+#. Mobile Menu
+-----------------------------------------------*/
+.mean-container .mean-bar,
+.mean-container .mean-bar * {
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+}
+.mean-remove {
+	display: none!important;
+}
+.mean-container .mean-push {
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	clear: both;
+}
+
+.mean-container .mean-bar {
+	width: 100%;
+	position: relative;
+	background: #ffffff;
+	padding: 4px 0;
+	min-height: 42px;
+	border-bottom: 2px solid @primaryColor;
+	img {
+		padding: 4px 15px;
+	}
+	.mean-logo-area {
+		display: inline-block;
+		min-height: 42px;
+		.logo-small{
+			max-height: 26px;
+			padding: 5px 15px;
+		}
+	}
+	a.meanmenu-reveal {
+		width: 22px;
+		height: 22px;
+		padding: 15px 25px 15px 10px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		cursor: pointer;
+		color: @primaryColor;
+		text-decoration: none;
+		font-size: 16px;
+		text-indent: -9999em;
+		line-height: 22px;
+		font-size: 1px;
+		display: block;
+		font-weight: 700;
+		// &.meanclose {
+		// 	font-size: 13px !important;
+		// }
+		span {
+			display: block;
+			background-color: @primaryColor;
+			height: 3px;
+			margin-top: 3px;
+		}
+	}
+}
+
+.mean-container .mean-nav {
+	width: 100%;
+	background: #ffffff;
+	margin-top: 0px;
+	.wrapper {
+		width: 100%;
+		padding: 0;
+		margin: 0;
+	}
+	ul.menu {
+		overflow-y: scroll;
+	}
+	ul li.menu-item a:hover,
+	> ul > li.current-menu-item > a {
+		color:@primaryColor;
+	}
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 100% !important;
+		li.menu-item {
+			border-top: 1px solid #dddddd;
+			position: relative;
+			width: 100%;
+			a {
+				display: block;
+				color: #333333;
+				font-size: 15px;
+				width: 90%;
+				padding: 0.5em 5%;
+				margin: 0;
+				text-align: left;
+				text-decoration: none;
+				font-weight: 600;
+				line-height: 21px;
+			}
+			li a {
+				width: 80%;
+				padding: 0.5em 10%;
+				text-shadow: none!important;
+				visibility: visible;
+			}
+			li li a {
+				width: 70%;
+				padding: .5em 15%
+			}
+			li li li a {
+				width: 60%;
+				padding: 1em 20%
+			}
+			li li li li a {
+				width: 50%;
+				padding: 1em 25%;
+			}
+			a.mean-expand {
+				position: absolute;
+				right: 19px;
+				top: 0;
+				z-index: 2;
+				font-weight: 700;
+				display: inline;
+				margin: 0;
+				text-align: right;
+				font-size: 14px !important;
+				line-height: 1;
+				padding: 10px;
+				width: initial;
+				color:@primaryColor;
+
+				&:hover {
+					background: none;
+				}
+			}
+		}
+		li.mean-last a {
+			border-bottom: 0;
+			margin-bottom: 0;
+		}
+	}
+}
+
+.vertical-menu-area .vertical-menu ul.menu li.menu-item-has-children span.has-dropdown{	
+		position: absolute;	
+		right: 0;
+		top: 0;	
+		z-index: 9;
+		color: #646464;
+		cursor: pointer;	
+		line-height: 1;	
+		display: none;	
+		width: 26px;
+		height: 14px;
+	}
+
+
+.vertical-menu-area .vertical-menu ul.menu li.menu-item-has-children span.has-dropdown {
+     width: 42px;
+    height: 42px; 
+  background:
+    linear-gradient(#fff,#fff),
+    linear-gradient(#fff,#fff),
+    #000;
+  background-position:center;
+  background-size: 50% 2px,2px 50%; /*thickness = 2px, length = 50% (25px)*/
+  background-repeat:no-repeat;
+  background:
+    linear-gradient(#000,#000),
+    linear-gradient(#000,#000);
+  background-position:center;
+  background-size: 33% 2px, 2px 33%; /*thickness = 2px, length = 50% (25px)*/
+  background-repeat:no-repeat;
+}
+
+@media all and (max-width: 991px) {
+	.vertical-menu-area .vertical-menu ul.menu li.menu-item-has-children span.has-dropdown{
+		display: block;	
+		  display:inline-block;	
+	}
+	.vertical-menu-area .vertical-menu ul.menu li.menu-item-has-children > a::after{
+		display: none;
+	}
+	
+}
+
+
+.menu-item{
+
+	.new, .hot, .info{
+	
+		color: #fff;
+		padding: 6px 8px 4px 8px;
+		border-radius: 4px;
+		box-shadow: 0 3px 3px rgba(17, 17, 17, 0.2);
+		font-size: 10px;
+		font-weight: 700;
+		text-transform: uppercase;
+
+	}
+	
+	.new{
+
+		background-color: #5dd25d;
+	
+	}
+
+	.hot{
+
+		background-color: #ee5c5c;
+
+	}
+
+	.info{
+
+		background-color: #5e93d7;
+
+	}
+
+
+}

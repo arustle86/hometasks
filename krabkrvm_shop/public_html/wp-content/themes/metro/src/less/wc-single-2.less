@@ -1,0 +1,241 @@
+.woocommerce div.product .single-product-top-2 {
+	display: flex;
+	@media @tablet {
+		display: block;
+	}
+	> .rtin-left {
+		flex: 0 0 auto;
+		margin-right: 40px;
+		width: 45%;
+		max-width: 570px;
+		@media @tablet {
+			width: inherit;
+			margin: 0 0 20px;
+		}
+		.rtwpvg-images {
+			margin-bottom: 0;
+		}
+	}
+	> .rtin-right {
+		flex: 1 1 auto;
+	}
+	.woocommerce-product-gallery__wrapper {
+		@media @tablet {
+			max-width: 570px;
+		}
+	}
+	.rtin-price-area {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-top: 20px;
+		@media @mobile {
+			display: block;
+		}
+	}
+	.price {
+		margin: 0;
+	}
+	.rtin-avaibility {
+		@media @mobile {
+			margin-top: 10px;
+		}
+		.rtin-stock {
+			color: @primaryColor;
+			font-weight: 500;
+		}
+	}
+	.product_meta-area {
+		margin-top: 30px;
+		margin-bottom: 15px;
+		.product-meta-term {
+			margin-top: 10px;
+		}
+		.product-meta-title {
+			color: #646464;
+			margin-right: 5px;
+		}
+		.product-meta-content {
+			color: #111111;
+			font-weight: 500;
+			a {
+				color: #111111;
+				&:hover {
+					color: @primaryColor;
+					text-decoration: underline;
+				}
+			}
+		}
+		div.product-meta-seperator,
+		.product-meta-avaibility {
+			display: none;
+		}
+
+		.product-social {
+			margin-top: 10px;
+			font-size: 0;
+			line-height: 0;
+			.product-social-title {
+				color: #646464;
+				margin-right: 0;
+				display: inline;
+				font-size: 15px;
+				line-height: 1.3;
+			}
+			.product-social-items {
+				display: inline;
+				.ul0();
+				li {
+					display: inline-block;
+					a {
+						color: #646464;
+						margin: 0 10px;
+						transition: 0.3s ease-in-out;
+						font-size: 15px;
+						line-height: 1.3;
+						&:hover {
+							color: @primaryColor;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	.woocommerce-product-details__short-description {
+		color: #444;
+		margin-top: 30px;
+	}
+
+	form.cart .variations {
+		margin-top: 20px;
+	}
+	
+	.cart.grouped_form .single-add-to-cart-wrapper {
+		margin-top: 20px;
+	}
+
+	div.images {
+		margin: 0 !important;
+		.woocommerce-product-gallery__image {
+			img {
+				border-radius: 2px;
+			}
+			&:first-child {
+				margin-bottom: 10px;
+			}
+			&:nth-child(n+2) {
+				margin-right: 10px;
+				width: 22%;
+				width: calc((100% - 30px) / 4) !important;
+				max-width: 150px;
+			}
+			&:nth-child(4n+1) {
+				margin-right: 0;
+			}
+		}
+	}
+
+	.woocommerce-tabs {
+		margin-top: 35px;
+		@media @mobile {
+			margin-top: 15px;
+		}
+		ul.tabs {
+			overflow: visible;
+			margin-bottom: 30px;
+			padding-left: 0;
+			@media @mobile {
+				margin-bottom: 20px;
+			}
+			&::before {
+				border-bottom: none;
+			}
+			li {
+				background-color: inherit;
+				border: none;
+				margin: 0 30px 0 0;
+				padding: 0;
+				@media @mobile {
+					margin-right: 20px;
+				}
+				&.description_tab {
+					border-left-width: 0;
+				}
+				a {
+					font-size: 20px;
+					line-height: 1.3;
+					padding: 15px 0;
+					font-weight: 500;
+					color: #b9b9b9;
+					transition: 0.3s ease-in-out;
+					outline: 0;
+					border-bottom: 3px solid transparent;
+					@media @mobile {
+						font-size: 16px;
+					}
+				}
+				a:hover {
+					color: @primaryColor;
+				}
+				&.active a {
+					color: @primaryColor;
+					border-color: @primaryColor;
+				}
+				&::before,
+				&::after {
+					border: 0;
+					border-radius: 0;
+					box-shadow: none;
+					content: none;
+					height: inherit;
+					left: inherit;
+					position: inherit;
+					width: inherit;
+				}
+			}
+		}
+		.panel {
+			border: medium none;
+			box-shadow: none;
+			margin: 0;
+			padding: 0;
+		}
+		h2 {
+			color: #111111;
+			font-size: 24px;
+			line-height: 1.3;
+		}
+	}
+
+}
+
+.woocommerce div.product .single-product-bottom-2 {
+	margin-top: 70px;
+	@media @mobile {
+		margin-top: 40px;
+	}
+	.rdtheme-related-products {
+		.woo-related-title {
+			color: #000;
+			font-size: 30px;
+			line-height: 1.4;
+			margin-bottom: 35px;
+			text-align: center;
+			@media @mobile {
+				font-size: 25px;
+				margin-bottom: 25px;
+			}
+		}
+	}
+
+	.up-sells {
+		margin-bottom: 50px;
+		@media @mobile {
+			margin-bottom: 25px;
+		}
+	}
+	.owl-carousel .owl-stage {
+		margin: 0 auto;
+	}
+}

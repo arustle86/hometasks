@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'cff8f22e90d49bd5b573202ca596f9e62d59ec78',
+        'name' => '__root__',
+        'dev' => false,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'cff8f22e90d49bd5b573202ca596f9e62d59ec78',
+            'dev_requirement' => false,
+        ),
+        'psr/log' => array(
+            'pretty_version' => '1.1.4',
+            'version' => '1.1.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(),
+            'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
+            'dev_requirement' => false,
+        ),
+        'yoomoney/yookassa-sdk-php' => array(
+            'pretty_version' => '2.5.1',
+            'version' => '2.5.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../yoomoney/yookassa-sdk-php',
+            'aliases' => array(),
+            'reference' => 'b4a597983a64589ccf2c3609979750f8cd9298c7',
+            'dev_requirement' => false,
+        ),
+    ),
+);

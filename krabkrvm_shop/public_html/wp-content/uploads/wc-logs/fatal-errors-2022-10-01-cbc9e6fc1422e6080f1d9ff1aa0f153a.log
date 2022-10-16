@@ -1,0 +1,7 @@
+2022-10-01T05:17:27+00:00 CRITICAL Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php:78
+Stack trace:
+#0 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php(78): PDO->query('SELECT w0_.name...')
+#1 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOQueryImplementation.php(22): MailPoetVendor\Doctrine\DBAL\Driver\PDOConnection->doQuery('SELECT w0_.name...')
+#2 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Connection.php(500): MailPoetVendor\Doctrine\DBAL\Driver\PDOConnection->query('SELECT w0_.name...')
+#3 /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/orm/lib/Doctrine/ORM/Query в /home/k/krabkrvm/krabkrvm_shop/public_html/wp-content/plugins/mailpoet/vendor-prefixed/doctrine/dbal/lib/Doctrine/DBAL/Driver/AbstractMySQLDriver.php на строке 91
+

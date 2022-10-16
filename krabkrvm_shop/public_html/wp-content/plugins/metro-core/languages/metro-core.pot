@@ -1,0 +1,1436 @@
+# Copyright (C) 2021 metro-core
+# This file is distributed under the same license as the metro-core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: metro-core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: RadiusTheme <info@radiustheme.com>\n"
+"Report-Msgid-Bugs-To: support@radiustheme.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: elementor/accordion/class.php:19
+msgid "Accordion"
+msgstr ""
+
+#: elementor/accordion/class.php:29, elementor/banner-info-box/class.php:27, elementor/banner-with-link/class.php:31, elementor/button/class.php:29, elementor/contact/class.php:29, elementor/countdown-1/class.php:33, elementor/countdown-2/class.php:33, elementor/countdown-3/class.php:33, elementor/google-map/class.php:29, elementor/info-box-2/class.php:31, elementor/info-box/class.php:29, elementor/logo-slider/class.php:45, elementor/modern-banner-slider/class.php:130, elementor/post/class.php:72, elementor/product-box/class.php:44, elementor/product-carousel/class.php:47, elementor/product-categories-slider/class.php:48, elementor/product-categories/class.php:47, elementor/product-fullscreen-grid/class.php:127, elementor/product-grid/class.php:37, elementor/product-isotope/class.php:59, elementor/product-list/class.php:37, elementor/product-search/class.php:32, elementor/product-slider/class.php:47, elementor/sale-banner-slider/class.php:74, elementor/text-with-button/class.php:29, elementor/text-with-icon/class.php:29, elementor/title/class.php:29, elementor/vertical-menu/class.php:30, elementor/video/class.php:34
+msgid "General"
+msgstr ""
+
+#: elementor/accordion/class.php:34, elementor/modern-banner-slider/class.php:165, elementor/sale-banner-slider/class.php:113
+msgid "Add as many items as you want"
+msgstr ""
+
+#: elementor/accordion/class.php:39, elementor/banner-info-box/class.php:62, elementor/banner-info-box/class.php:280, elementor/banner-info-box/class.php:311, elementor/countdown-1/class.php:57, elementor/countdown-2/class.php:44, elementor/info-box-2/class.php:150, elementor/info-box-2/class.php:185, elementor/info-box-2/class.php:213, elementor/info-box/class.php:76, elementor/info-box/class.php:294, elementor/info-box/class.php:325, elementor/post/class.php:113, elementor/post/class.php:151, elementor/product-advanced-grid/class.php:149, elementor/product-advanced-grid/class.php:284, elementor/product-carousel/class.php:81, elementor/product-carousel/class.php:180, elementor/product-fullscreen-grid/class.php:207, elementor/product-fullscreen-grid/class.php:260, elementor/product-grid/class.php:61, elementor/product-grid/class.php:123, elementor/product-list/class.php:55, elementor/product-list/class.php:126, elementor/product-slider/class.php:81, elementor/product-slider/class.php:186, elementor/text-with-button/class.php:34, elementor/text-with-icon/class.php:85, elementor/title/class.php:44, elementor/video/class.php:85, widgets/about.php:114, widgets/post.php:97, widgets/post.php:103, widgets/product-attr.php:173, widgets/product-cat.php:167, widgets/socials.php:97
+msgid "Title"
+msgstr ""
+
+#: elementor/accordion/class.php:45, elementor/banner-with-link/class.php:99, elementor/modern-banner-slider/class.php:45
+msgid "Content"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:18
+msgid "Banner Info Box"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:32, elementor/banner-with-link/class.php:38, elementor/button/class.php:34, elementor/info-box/class.php:34, elementor/post/class.php:77, elementor/product-list/class.php:43, elementor/text-with-icon/class.php:34, elementor/title/class.php:34, elementor/title/class.php:68, elementor/vertical-menu/class.php:48
+msgid "Style"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:34, elementor/banner-with-link/class.php:40, elementor/button/class.php:36, elementor/countdown-1/class.php:40, elementor/info-box/class.php:36, elementor/modern-banner-slider/class.php:137, elementor/post/class.php:79, elementor/product-advanced-grid/class.php:177, elementor/product-box/class.php:59, elementor/product-carousel/class.php:54, elementor/product-categories-slider/class.php:56, elementor/product-categories/class.php:55, elementor/product-fullscreen-grid/class.php:146, elementor/product-isotope/class.php:79, elementor/product-list/class.php:45, elementor/product-search/class.php:40, elementor/product-slider/class.php:54, elementor/sale-banner-slider/class.php:83, elementor/text-with-icon/class.php:36, elementor/title/class.php:36
+msgid "Style 1"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:35, elementor/banner-with-link/class.php:41, elementor/button/class.php:37, elementor/countdown-1/class.php:41, elementor/info-box/class.php:37, elementor/modern-banner-slider/class.php:138, elementor/post/class.php:80, elementor/product-advanced-grid/class.php:178, elementor/product-box/class.php:60, elementor/product-carousel/class.php:55, elementor/product-categories-slider/class.php:57, elementor/product-categories/class.php:56, elementor/product-fullscreen-grid/class.php:147, elementor/product-isotope/class.php:80, elementor/product-list/class.php:46, elementor/product-slider/class.php:55, elementor/sale-banner-slider/class.php:84, elementor/text-with-icon/class.php:37, elementor/title/class.php:37
+msgid "Style 2"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:54, elementor/info-box-2/class.php:91, elementor/info-box/class.php:68
+msgid "Box Height"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:68, elementor/banner-info-box/class.php:286, elementor/banner-info-box/class.php:318, elementor/countdown-1/class.php:63, elementor/countdown-2/class.php:50, elementor/info-box-2/class.php:156, elementor/info-box-2/class.php:191, elementor/info-box-2/class.php:220, elementor/info-box/class.php:82, elementor/info-box/class.php:300, elementor/info-box/class.php:332, elementor/modern-banner-slider/class.php:39, elementor/post/class.php:134, elementor/sale-banner-slider/class.php:42, elementor/text-with-button/class.php:40, elementor/text-with-icon/class.php:91, elementor/title/class.php:50
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:75, elementor/info-box/class.php:89
+msgid "Content Position"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:77, elementor/info-box-2/class.php:54, elementor/info-box/class.php:91
+msgid "Left Bottom"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:78, elementor/info-box/class.php:92
+msgid "Left Top"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:79, elementor/info-box/class.php:93
+msgid "Right Top"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:80, elementor/info-box-2/class.php:53, elementor/info-box/class.php:94
+msgid "Right Bottom"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:99, elementor/info-box/class.php:113
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:112, elementor/info-box/class.php:126
+msgid "Background"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:129, elementor/countdown-3/class.php:38, elementor/info-box-2/class.php:141, elementor/info-box/class.php:143
+msgid "Product Image"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:134, elementor/countdown-1/class.php:50, elementor/countdown-2/class.php:38, elementor/info-box/class.php:148, elementor/logo-slider/class.php:55, elementor/modern-banner-slider/class.php:186, elementor/text-with-icon/class.php:78
+msgid "Image"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:135, elementor/info-box/class.php:149
+msgid "Use a transparent image"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:155, elementor/info-box/class.php:169
+msgid "Image Size"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:163, elementor/banner-with-link/class.php:159, elementor/info-box/class.php:177
+msgid "Horizontal Position"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:166, elementor/banner-with-link/class.php:162, elementor/base.php:120, elementor/button/class.php:62, elementor/info-box/class.php:180
+msgid "Left"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:170, elementor/banner-with-link/class.php:166, elementor/base.php:128, elementor/button/class.php:70, elementor/info-box/class.php:184
+msgid "Right"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:180, elementor/banner-info-box/class.php:221, elementor/info-box/class.php:194, elementor/info-box/class.php:235
+msgid "Offset"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:204, elementor/banner-with-link/class.php:201, elementor/info-box/class.php:218
+msgid "Vertical Position"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:207, elementor/banner-with-link/class.php:204, elementor/info-box/class.php:221
+msgid "Top"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:211, elementor/banner-with-link/class.php:208, elementor/info-box/class.php:225
+msgid "Bottom"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:251, elementor/info-box/class.php:265
+msgid "Link and Button"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:256, elementor/banner-with-link/class.php:79, elementor/banner-with-link/class.php:151, elementor/info-box-2/class.php:162, elementor/info-box-2/class.php:197, elementor/info-box-2/class.php:227, elementor/info-box/class.php:270, elementor/modern-banner-slider/class.php:75, elementor/modern-banner-slider/class.php:110, elementor/sale-banner-slider/class.php:48
+msgid "Link"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:262, elementor/button/class.php:46, elementor/countdown-2/class.php:67, elementor/countdown-3/class.php:56, elementor/info-box/class.php:276, elementor/product-categories-slider/class.php:120, elementor/product-categories/class.php:122, elementor/text-with-button/class.php:52
+msgid "Button Text"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:275, elementor/info-box-2/class.php:180, elementor/info-box/class.php:289
+msgid "Color"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:292, elementor/banner-info-box/class.php:325, elementor/info-box/class.php:306, elementor/info-box/class.php:339
+msgid "Button/Link"
+msgstr ""
+
+#: elementor/banner-info-box/class.php:305, elementor/info-box-2/class.php:207, elementor/info-box/class.php:319
+msgid "Typography"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:19
+msgid "Banner With Link"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:71, elementor/google-map/class.php:41, elementor/modern-banner-slider/class.php:157, elementor/sale-banner-slider/class.php:105
+msgid "Height"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:86, elementor/info-box-2/class.php:168, elementor/modern-banner-slider/class.php:81, elementor/sale-banner-slider/class.php:54
+msgid "Link Text"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:106
+msgid "Title Before"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:113
+msgid "Title Before Color"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:121
+msgid "Title Before Typography"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:128, elementor/modern-banner-slider/class.php:32
+msgid "Title Text"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:135, elementor/countdown-1/class.php:69, elementor/title/class.php:73
+msgid "Title Color"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:143, elementor/title/class.php:88
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:189
+msgid "Left - Right"
+msgstr ""
+
+#: elementor/banner-with-link/class.php:230
+msgid "Top - Bottom"
+msgstr ""
+
+#: elementor/base.php:124, elementor/button/class.php:66
+msgid "Center"
+msgstr ""
+
+#: elementor/button/class.php:19
+msgid "Button"
+msgstr ""
+
+#: elementor/button/class.php:38, elementor/countdown-1/class.php:42, elementor/info-box/class.php:38, elementor/post/class.php:81, elementor/product-advanced-grid/class.php:179, elementor/product-box/class.php:61, elementor/product-carousel/class.php:56, elementor/product-categories-slider/class.php:58, elementor/product-categories/class.php:57, elementor/product-fullscreen-grid/class.php:148, elementor/product-isotope/class.php:81, elementor/product-slider/class.php:56, elementor/text-with-icon/class.php:38
+msgid "Style 3"
+msgstr ""
+
+#: elementor/button/class.php:39, elementor/info-box/class.php:39, elementor/post/class.php:82, elementor/product-advanced-grid/class.php:180, elementor/product-box/class.php:62, elementor/product-carousel/class.php:57, elementor/product-fullscreen-grid/class.php:149, elementor/product-isotope/class.php:82, elementor/product-slider/class.php:57, elementor/text-with-icon/class.php:39
+msgid "Style 4"
+msgstr ""
+
+#: elementor/button/class.php:52, elementor/countdown-2/class.php:73, elementor/countdown-3/class.php:62, elementor/text-with-button/class.php:46
+msgid "Button Link"
+msgstr ""
+
+#: elementor/button/class.php:59, elementor/title/class.php:56
+msgid "Alignment"
+msgstr ""
+
+#: elementor/contact/class.php:19
+msgid "Contact"
+msgstr ""
+
+#: elementor/contact/class.php:34, elementor/contact/view.php:18, widgets/about.php:126
+msgid "Address"
+msgstr ""
+
+#: elementor/contact/class.php:40, elementor/contact/view.php:28, widgets/about.php:130
+msgid "Phone"
+msgstr ""
+
+#: elementor/contact/class.php:46, elementor/contact/view.php:38, widgets/about.php:134
+msgid "Email"
+msgstr ""
+
+#: elementor/countdown-1/class.php:19
+msgid "Product Countdown 1"
+msgstr ""
+
+#: elementor/countdown-1/class.php:38
+msgid "Countdown Style"
+msgstr ""
+
+#: elementor/countdown-1/class.php:51, elementor/countdown-2/class.php:39, elementor/countdown-3/class.php:39, elementor/countdown-3/class.php:45
+msgid "Upload a transparent image"
+msgstr ""
+
+#: elementor/countdown-1/class.php:78
+msgid "Regular Price"
+msgstr ""
+
+#: elementor/countdown-1/class.php:84
+msgid "Sale Price"
+msgstr ""
+
+#: elementor/countdown-1/class.php:90, elementor/countdown-2/class.php:61, elementor/countdown-3/class.php:50
+msgid "Date-Time"
+msgstr ""
+
+#: elementor/countdown-1/class.php:91, elementor/countdown-2/class.php:62, elementor/countdown-3/class.php:51
+msgid "Enter a future date-time"
+msgstr ""
+
+#: elementor/countdown-2/class.php:19
+msgid "Product Countdown 2"
+msgstr ""
+
+#: elementor/countdown-2/class.php:56
+msgid "Extra Content(Supports HTML code)"
+msgstr ""
+
+#: elementor/countdown-2/class.php:79
+msgid "Water Ripple Effect"
+msgstr ""
+
+#: elementor/countdown-2/class.php:80, elementor/logo-slider/class.php:123, elementor/logo-slider/class.php:132, elementor/logo-slider/class.php:165, elementor/modern-banner-slider/class.php:208, elementor/modern-banner-slider/class.php:217, elementor/modern-banner-slider/class.php:226, elementor/product-advanced-grid/class.php:142, elementor/product-advanced-grid/class.php:201, elementor/product-advanced-grid/class.php:209, elementor/product-advanced-grid/class.php:218, elementor/product-advanced-grid/class.php:228, elementor/product-advanced-grid/class.php:238, elementor/product-advanced-grid/class.php:247, elementor/product-advanced-grid/class.php:298, elementor/product-advanced-grid/class.php:306, elementor/product-box/class.php:81, elementor/product-box/class.php:103, elementor/product-carousel/class.php:74, elementor/product-carousel/class.php:96, elementor/product-carousel/class.php:105, elementor/product-carousel/class.php:114, elementor/product-carousel/class.php:123, elementor/product-carousel/class.php:131, elementor/product-carousel/class.php:139, elementor/product-carousel/class.php:194, elementor/product-carousel/class.php:202, elementor/product-carousel/class.php:265, elementor/product-carousel/class.php:274, elementor/product-carousel/class.php:283, elementor/product-carousel/class.php:292, elementor/product-carousel/class.php:325, elementor/product-categories-slider/class.php:183, elementor/product-categories-slider/class.php:192, elementor/product-categories-slider/class.php:201, elementor/product-categories-slider/class.php:210, elementor/product-categories-slider/class.php:243, elementor/product-fullscreen-grid/class.php:171, elementor/product-fullscreen-grid/class.php:200, elementor/product-fullscreen-grid/class.php:215, elementor/product-fullscreen-grid/class.php:224, elementor/product-fullscreen-grid/class.php:232, elementor/product-fullscreen-grid/class.php:274, elementor/product-fullscreen-grid/class.php:282, elementor/product-grid/class.php:44, elementor/product-grid/class.php:53, elementor/product-grid/class.php:68, elementor/product-grid/class.php:83, elementor/product-grid/class.php:91, elementor/product-grid/class.php:137, elementor/product-grid/class.php:145, elementor/product-isotope/class.php:148, elementor/product-isotope/class.php:156, elementor/product-isotope/class.php:164, elementor/product-isotope/class.php:172, elementor/product-isotope/class.php:181, elementor/product-isotope/class.php:196, elementor/product-list/class.php:62, elementor/product-list/class.php:77, elementor/product-list/class.php:85, elementor/product-list/class.php:93, elementor/product-list/class.php:140, elementor/product-list/class.php:148, elementor/product-search/class.php:52, elementor/product-search/class.php:61, elementor/product-slider/class.php:74, elementor/product-slider/class.php:89, elementor/product-slider/class.php:99, elementor/product-slider/class.php:109, elementor/product-slider/class.php:119, elementor/product-slider/class.php:129, elementor/product-slider/class.php:137, elementor/product-slider/class.php:145, elementor/product-slider/class.php:200, elementor/product-slider/class.php:208, elementor/product-slider/class.php:271, elementor/product-slider/class.php:280, elementor/product-slider/class.php:289, elementor/product-slider/class.php:298, elementor/product-slider/class.php:331, elementor/vertical-menu/class.php:36
+msgid "On"
+msgstr ""
+
+#: elementor/countdown-2/class.php:81, elementor/logo-slider/class.php:124, elementor/logo-slider/class.php:133, elementor/logo-slider/class.php:166, elementor/modern-banner-slider/class.php:209, elementor/modern-banner-slider/class.php:218, elementor/modern-banner-slider/class.php:227, elementor/product-advanced-grid/class.php:143, elementor/product-advanced-grid/class.php:202, elementor/product-advanced-grid/class.php:210, elementor/product-advanced-grid/class.php:219, elementor/product-advanced-grid/class.php:229, elementor/product-advanced-grid/class.php:239, elementor/product-advanced-grid/class.php:248, elementor/product-advanced-grid/class.php:299, elementor/product-advanced-grid/class.php:307, elementor/product-box/class.php:82, elementor/product-box/class.php:104, elementor/product-carousel/class.php:75, elementor/product-carousel/class.php:97, elementor/product-carousel/class.php:106, elementor/product-carousel/class.php:115, elementor/product-carousel/class.php:124, elementor/product-carousel/class.php:132, elementor/product-carousel/class.php:140, elementor/product-carousel/class.php:195, elementor/product-carousel/class.php:203, elementor/product-carousel/class.php:266, elementor/product-carousel/class.php:275, elementor/product-carousel/class.php:284, elementor/product-carousel/class.php:293, elementor/product-carousel/class.php:326, elementor/product-categories-slider/class.php:184, elementor/product-categories-slider/class.php:193, elementor/product-categories-slider/class.php:202, elementor/product-categories-slider/class.php:211, elementor/product-categories-slider/class.php:244, elementor/product-fullscreen-grid/class.php:172, elementor/product-fullscreen-grid/class.php:201, elementor/product-fullscreen-grid/class.php:216, elementor/product-fullscreen-grid/class.php:225, elementor/product-fullscreen-grid/class.php:233, elementor/product-fullscreen-grid/class.php:275, elementor/product-fullscreen-grid/class.php:283, elementor/product-grid/class.php:45, elementor/product-grid/class.php:54, elementor/product-grid/class.php:69, elementor/product-grid/class.php:84, elementor/product-grid/class.php:92, elementor/product-grid/class.php:138, elementor/product-grid/class.php:146, elementor/product-isotope/class.php:149, elementor/product-isotope/class.php:157, elementor/product-isotope/class.php:165, elementor/product-isotope/class.php:173, elementor/product-isotope/class.php:182, elementor/product-isotope/class.php:197, elementor/product-list/class.php:63, elementor/product-list/class.php:78, elementor/product-list/class.php:86, elementor/product-list/class.php:94, elementor/product-list/class.php:141, elementor/product-list/class.php:149, elementor/product-search/class.php:53, elementor/product-search/class.php:62, elementor/product-slider/class.php:75, elementor/product-slider/class.php:90, elementor/product-slider/class.php:100, elementor/product-slider/class.php:110, elementor/product-slider/class.php:120, elementor/product-slider/class.php:130, elementor/product-slider/class.php:138, elementor/product-slider/class.php:146, elementor/product-slider/class.php:201, elementor/product-slider/class.php:209, elementor/product-slider/class.php:272, elementor/product-slider/class.php:281, elementor/product-slider/class.php:290, elementor/product-slider/class.php:299, elementor/product-slider/class.php:332, elementor/vertical-menu/class.php:37
+msgid "Off"
+msgstr ""
+
+#: elementor/countdown-3/class.php:19
+msgid "Product Countdown 3"
+msgstr ""
+
+#: elementor/countdown-3/class.php:44
+msgid "Title Image"
+msgstr ""
+
+#: elementor/google-map/class.php:19
+msgid "Google Map"
+msgstr ""
+
+#: elementor/google-map/class.php:34
+msgid "Google Map Code"
+msgstr ""
+
+#: elementor/google-map/class.php:36
+msgid "To create your own google map, follow the steps below:<br/>Step 1: Visit %s<br/>Step 2: Search for a location using the search bar of the top-left corner<br/>Step 3: After you find the location, click on the \"Share\" icon from the left panel<br/>Step 4: A popup will come up. From there go to the \"Embed map\" tab. You will find your Google Map code. Copy and paste this code in here"
+msgstr ""
+
+#: elementor/info-box-2/class.php:21
+msgid "Info Box 2"
+msgstr ""
+
+#: elementor/info-box-2/class.php:38, elementor/product-fullscreen-grid/class.php:132, elementor/product-isotope/class.php:64, inc/post-meta.php:36
+msgid "Layout"
+msgstr ""
+
+#: elementor/info-box-2/class.php:40
+msgid "Layout One"
+msgstr ""
+
+#: elementor/info-box-2/class.php:41
+msgid "Layout Two"
+msgstr ""
+
+#: elementor/info-box-2/class.php:50, elementor/info-box-2/class.php:64
+msgid "Content Align"
+msgstr ""
+
+#: elementor/info-box-2/class.php:52
+msgid "Right Top "
+msgstr ""
+
+#: elementor/info-box-2/class.php:55
+msgid "Bottom Center"
+msgstr ""
+
+#: elementor/info-box-2/class.php:66
+msgid "Bottom Left"
+msgstr ""
+
+#: elementor/info-box-2/class.php:67
+msgid "Top Left"
+msgstr ""
+
+#: elementor/info-box-2/class.php:68
+msgid "Top Right"
+msgstr ""
+
+#: elementor/info-box-2/class.php:69
+msgid "Bottom Right"
+msgstr ""
+
+#: elementor/info-box-2/class.php:70
+msgid "Centrt Right"
+msgstr ""
+
+#: elementor/info-box-2/class.php:111
+msgid "Left Spacing"
+msgstr ""
+
+#: elementor/info-box-2/class.php:131
+msgid "Right Spacing"
+msgstr ""
+
+#: elementor/info-box/class.php:19
+msgid "Info Box"
+msgstr ""
+
+#: elementor/info-box/class.php:40, elementor/post/class.php:83, elementor/product-advanced-grid/class.php:181, elementor/product-box/class.php:63, elementor/product-carousel/class.php:58, elementor/product-fullscreen-grid/class.php:150, elementor/product-isotope/class.php:83, elementor/product-slider/class.php:58, elementor/text-with-icon/class.php:40
+msgid "Style 5"
+msgstr ""
+
+#: elementor/info-box/class.php:41, elementor/post/class.php:84, elementor/product-advanced-grid/class.php:182, elementor/product-box/class.php:64, elementor/product-carousel/class.php:59, elementor/product-fullscreen-grid/class.php:151, elementor/product-isotope/class.php:84, elementor/product-slider/class.php:59, elementor/text-with-icon/class.php:41
+msgid "Style 6"
+msgstr ""
+
+#: elementor/info-box/class.php:42, elementor/post/class.php:85, elementor/product-advanced-grid/class.php:183, elementor/product-box/class.php:65, elementor/product-carousel/class.php:60, elementor/product-fullscreen-grid/class.php:152, elementor/product-isotope/class.php:85, elementor/product-slider/class.php:60, elementor/text-with-icon/class.php:42
+msgid "Style 7"
+msgstr ""
+
+#: elementor/info-box/class.php:43, elementor/post/class.php:86, elementor/product-advanced-grid/class.php:184, elementor/product-box/class.php:66, elementor/product-carousel/class.php:61, elementor/product-carousel/class.php:63, elementor/product-fullscreen-grid/class.php:153, elementor/product-isotope/class.php:86, elementor/product-slider/class.php:61, elementor/product-slider/class.php:63, elementor/text-with-icon/class.php:43
+msgid "Style 8"
+msgstr ""
+
+#: elementor/info-box/class.php:44, elementor/post/class.php:87, elementor/product-advanced-grid/class.php:185, elementor/product-box/class.php:67, elementor/product-carousel/class.php:62, elementor/product-fullscreen-grid/class.php:154, elementor/product-isotope/class.php:87, elementor/product-slider/class.php:62
+msgid "Style 9"
+msgstr ""
+
+#: elementor/info-box/class.php:45, elementor/product-advanced-grid/class.php:186, elementor/product-box/class.php:68, elementor/product-fullscreen-grid/class.php:155, elementor/product-isotope/class.php:88
+msgid "Style 10"
+msgstr ""
+
+#: elementor/info-box/class.php:46, elementor/product-advanced-grid/class.php:187, elementor/product-box/class.php:69, elementor/product-carousel/class.php:64, elementor/product-fullscreen-grid/class.php:156, elementor/product-isotope/class.php:89, elementor/product-slider/class.php:64
+msgid "Style 11"
+msgstr ""
+
+#: elementor/info-box/class.php:47, elementor/product-advanced-grid/class.php:188, elementor/product-box/class.php:70, elementor/product-carousel/class.php:65, elementor/product-isotope/class.php:90, elementor/product-slider/class.php:65
+msgid "Style 12"
+msgstr ""
+
+#: elementor/info-box/class.php:48, elementor/product-advanced-grid/class.php:189, elementor/product-box/class.php:71, elementor/product-carousel/class.php:66, elementor/product-slider/class.php:66
+msgid "Style 13"
+msgstr ""
+
+#: elementor/info-box/class.php:49, elementor/product-advanced-grid/class.php:190
+msgid "Style 14"
+msgstr ""
+
+#: elementor/init.php:111
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/logo-slider/class.php:19
+msgid "Logo Slider"
+msgstr ""
+
+#: elementor/logo-slider/class.php:23, elementor/product-carousel/class.php:23, elementor/product-slider/class.php:23
+msgid "1 Col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:24, elementor/product-carousel/class.php:24, elementor/product-slider/class.php:24
+msgid "2 Col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:25, elementor/product-carousel/class.php:25, elementor/product-slider/class.php:25
+msgid "3 Col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:26, elementor/product-carousel/class.php:26, elementor/product-slider/class.php:26
+msgid "4 Col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:27, elementor/product-carousel/class.php:27, elementor/product-slider/class.php:27
+msgid "5 Col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:28, elementor/product-carousel/class.php:28, elementor/product-slider/class.php:28
+msgid "6 Col"
+msgstr ""
+
+#: elementor/logo-slider/class.php:50
+msgid "Add as many logos as you want"
+msgstr ""
+
+#: elementor/logo-slider/class.php:60, elementor/modern-banner-slider/class.php:191
+msgid "URL(optional)"
+msgstr ""
+
+#: elementor/logo-slider/class.php:72, elementor/product-carousel/class.php:214, elementor/product-categories-slider/class.php:132, elementor/product-slider/class.php:220
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: elementor/logo-slider/class.php:77, elementor/product-carousel/class.php:219, elementor/product-categories-slider/class.php:137, elementor/product-slider/class.php:225
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/logo-slider/class.php:84, elementor/product-carousel/class.php:226, elementor/product-categories-slider/class.php:144, elementor/product-slider/class.php:232
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: elementor/logo-slider/class.php:91, elementor/product-carousel/class.php:233, elementor/product-categories-slider/class.php:151, elementor/product-slider/class.php:239
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: elementor/logo-slider/class.php:98, elementor/product-carousel/class.php:240, elementor/product-categories-slider/class.php:158, elementor/product-slider/class.php:246
+msgid "Phones: < 768px"
+msgstr ""
+
+#: elementor/logo-slider/class.php:105, elementor/product-carousel/class.php:247, elementor/product-categories-slider/class.php:165, elementor/product-slider/class.php:253
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/logo-slider/class.php:117, elementor/product-carousel/class.php:259, elementor/product-categories-slider/class.php:177, elementor/product-slider/class.php:265
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/logo-slider/class.php:122, elementor/modern-banner-slider/class.php:225, elementor/product-carousel/class.php:282, elementor/product-categories-slider/class.php:200, elementor/product-slider/class.php:288
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/logo-slider/class.php:126, elementor/modern-banner-slider/class.php:229, elementor/product-carousel/class.php:286, elementor/product-categories-slider/class.php:204, elementor/product-slider/class.php:292
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: elementor/logo-slider/class.php:131, elementor/product-carousel/class.php:291, elementor/product-categories-slider/class.php:209, elementor/product-slider/class.php:297
+msgid "Stop on Hover"
+msgstr ""
+
+#: elementor/logo-slider/class.php:135, elementor/product-carousel/class.php:295, elementor/product-categories-slider/class.php:213, elementor/product-slider/class.php:301
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr ""
+
+#: elementor/logo-slider/class.php:141, elementor/product-carousel/class.php:301, elementor/product-categories-slider/class.php:219, elementor/product-slider/class.php:307
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor/logo-slider/class.php:143, elementor/product-carousel/class.php:303, elementor/product-categories-slider/class.php:221, elementor/product-slider/class.php:309
+msgid "5 Seconds"
+msgstr ""
+
+#: elementor/logo-slider/class.php:144, elementor/product-carousel/class.php:304, elementor/product-categories-slider/class.php:222, elementor/product-slider/class.php:310
+msgid "4 Seconds"
+msgstr ""
+
+#: elementor/logo-slider/class.php:145, elementor/product-carousel/class.php:305, elementor/product-categories-slider/class.php:223, elementor/product-slider/class.php:311
+msgid "3 Seconds"
+msgstr ""
+
+#: elementor/logo-slider/class.php:146, elementor/product-carousel/class.php:306, elementor/product-categories-slider/class.php:224, elementor/product-slider/class.php:312
+msgid "2 Seconds"
+msgstr ""
+
+#: elementor/logo-slider/class.php:147, elementor/product-carousel/class.php:307, elementor/product-categories-slider/class.php:225, elementor/product-slider/class.php:313
+msgid "1 Second"
+msgstr ""
+
+#: elementor/logo-slider/class.php:150, elementor/product-carousel/class.php:310, elementor/product-categories-slider/class.php:228, elementor/product-slider/class.php:316
+msgid "Set any value for example 5 seconds to play it in every 5 seconds. Default: 5 Seconds"
+msgstr ""
+
+#: elementor/logo-slider/class.php:156, elementor/modern-banner-slider/class.php:234, elementor/product-carousel/class.php:316, elementor/product-categories-slider/class.php:234, elementor/product-slider/class.php:322
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: elementor/logo-slider/class.php:158, elementor/modern-banner-slider/class.php:236, elementor/product-carousel/class.php:318, elementor/product-categories-slider/class.php:236, elementor/product-slider/class.php:324
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: elementor/logo-slider/class.php:164, elementor/product-carousel/class.php:324, elementor/product-categories-slider/class.php:242, elementor/product-slider/class.php:330
+msgid "Loop"
+msgstr ""
+
+#: elementor/logo-slider/class.php:168, elementor/product-carousel/class.php:328, elementor/product-categories-slider/class.php:246, elementor/product-slider/class.php:334
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:20
+msgid "Modern Banner Slider"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:52
+msgid "Price Label"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:60
+msgid "Price symbol"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:67
+msgid "Price"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:87
+msgid "Slider Image"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:95
+msgid "Slider Nav Image"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:117, elementor/text-with-icon/class.php:63, elementor/text-with-icon/class.php:71, inc/post-meta.php:155, lib/navmenu-icon/init.php:91
+msgid "Icon"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:135, elementor/product-advanced-grid/class.php:175, elementor/product-box/class.php:57, elementor/product-carousel/class.php:52, elementor/product-fullscreen-grid/class.php:144, elementor/product-isotope/class.php:77, elementor/product-slider/class.php:52
+msgid "Product Style"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:171
+msgid "Share Title"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:180
+msgid "Add as many Icons as you want"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:202
+msgid "Slider Option"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:207, elementor/product-carousel/class.php:264, elementor/product-categories-slider/class.php:182, elementor/product-slider/class.php:270
+msgid "Navigation Arrow"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:211, elementor/product-carousel/class.php:268, elementor/product-categories-slider/class.php:186, elementor/product-slider/class.php:274
+msgid "Enable or disable navigation arrow. Default: On"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:216
+msgid "Paginginfo Navigation"
+msgstr ""
+
+#: elementor/modern-banner-slider/class.php:220
+msgid "Enable or disable navigation paginginfo. Default: Off"
+msgstr ""
+
+#: elementor/post/class.php:19
+msgid "Post"
+msgstr ""
+
+#: elementor/post/class.php:62, elementor/product-advanced-grid/class.php:126, elementor/product-carousel/class.php:37, elementor/product-categories-slider/class.php:37, elementor/product-categories/class.php:36, elementor/product-fullscreen-grid/class.php:117, elementor/product-grid/class.php:27, elementor/product-isotope/class.php:35, elementor/product-list/class.php:27, elementor/product-slider/class.php:37, widgets/post.php:89
+msgid "All Categories"
+msgstr ""
+
+#: elementor/post/class.php:95
+msgid "Post Limit"
+msgstr ""
+
+#: elementor/post/class.php:97
+msgid "Maximum number of Post to display"
+msgstr ""
+
+#: elementor/post/class.php:102, elementor/text-with-icon/class.php:50
+msgid "Background Type"
+msgstr ""
+
+#: elementor/post/class.php:104, elementor/text-with-icon/class.php:52
+msgid "Light Background"
+msgstr ""
+
+#: elementor/post/class.php:105, elementor/text-with-icon/class.php:53
+msgid "Dark Background"
+msgstr ""
+
+#: elementor/post/class.php:119
+msgid "Title Right Link Text"
+msgstr ""
+
+#: elementor/post/class.php:126
+msgid "Content Limit"
+msgstr ""
+
+#: elementor/post/class.php:128
+msgid "Maximum number of words to display"
+msgstr ""
+
+#: elementor/post/class.php:141, elementor/product-advanced-grid/class.php:274, elementor/product-carousel/class.php:170, elementor/product-fullscreen-grid/class.php:250, elementor/product-grid/class.php:113, elementor/product-list/class.php:116, elementor/product-slider/class.php:176
+msgid "Categories"
+msgstr ""
+
+#: elementor/post/class.php:148, elementor/product-advanced-grid/class.php:281, elementor/product-carousel/class.php:177, elementor/product-fullscreen-grid/class.php:257, elementor/product-grid/class.php:120, elementor/product-list/class.php:123, elementor/product-slider/class.php:183
+msgid "Order By"
+msgstr ""
+
+#: elementor/post/class.php:150, elementor/product-advanced-grid/class.php:283, elementor/product-carousel/class.php:179, elementor/product-fullscreen-grid/class.php:259, elementor/product-grid/class.php:122, elementor/product-list/class.php:125, elementor/product-slider/class.php:185, widgets/post.php:96
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: elementor/post/class.php:152, elementor/product-advanced-grid/class.php:290, elementor/product-carousel/class.php:186, elementor/product-fullscreen-grid/class.php:266, elementor/product-grid/class.php:129, elementor/product-list/class.php:132, elementor/product-slider/class.php:192, widgets/post.php:98
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr ""
+
+#: elementor/post/view-1.php:32, elementor/post/view-4.php:31, elementor/product-advanced-grid/view-2.php:41, elementor/product-fullscreen-grid/view-1.php:38, elementor/product-fullscreen-grid/view-2.php:41, elementor/product-isotope/class.php:189, elementor/product-isotope/view-2.php:39, elementor/product-isotope/view-5.php:39, elementor/product-slider/view.php:35
+msgid "View All"
+msgstr ""
+
+#: elementor/post/view-1.php:46, elementor/post/view-2.php:36, elementor/post/view-3.php:43
+msgid "Posted by"
+msgstr ""
+
+#: elementor/post/view-1.php:54, elementor/post/view-2.php:44, elementor/post/view-3.php:52, elementor/post/view-4.php:59, elementor/post/view-5.php:48, elementor/post/view-6.php:48, elementor/post/view-7.php:61, elementor/post/view-8.php:52, elementor/post/view-9.php:90
+msgid "Currently there are no posts"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:19
+msgid "Product Advanced Grid"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:136, elementor/title/class.php:19
+msgid "Section Title"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:141, elementor/product-carousel/class.php:73, elementor/product-fullscreen-grid/class.php:199, elementor/product-grid/class.php:43, elementor/product-slider/class.php:73
+msgid "Section Title Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:156, elementor/product-carousel/class.php:88
+msgid "Sub Title"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:169
+msgid "Items Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:200, elementor/product-box/class.php:102, elementor/product-carousel/class.php:122, elementor/product-fullscreen-grid/class.php:223, elementor/product-grid/class.php:82, elementor/product-isotope/class.php:155, elementor/product-list/class.php:76, elementor/product-slider/class.php:128
+msgid "Category Name Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:208, elementor/product-carousel/class.php:130, elementor/product-fullscreen-grid/class.php:231, elementor/product-isotope/class.php:163, elementor/product-slider/class.php:136
+msgid "Rating Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:217, elementor/product-box/class.php:80, elementor/product-carousel/class.php:95, elementor/product-isotope/class.php:171, elementor/product-slider/class.php:98
+msgid "Variation Swatch Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:221, elementor/product-advanced-grid/class.php:231, elementor/product-advanced-grid/class.php:241, elementor/product-box/class.php:84, elementor/product-carousel/class.php:99, elementor/product-carousel/class.php:108, elementor/product-carousel/class.php:117, elementor/product-isotope/class.php:175, elementor/product-slider/class.php:102, elementor/product-slider/class.php:112, elementor/product-slider/class.php:122
+msgid "Requires plugin WooCommerce Variation Swatches Pro to be active"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:227, elementor/product-carousel/class.php:104, elementor/product-slider/class.php:108
+msgid "wishlist Swatch Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:237, elementor/product-carousel/class.php:113, elementor/product-slider/class.php:118
+msgid "Quickview Swatch Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:246
+msgid "compare Swatch Display"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:250
+msgid "Requires plugin WooCommerce Compare to be active"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:262, elementor/product-carousel/class.php:158, elementor/product-fullscreen-grid/class.php:244, elementor/product-grid/class.php:101, elementor/product-list/class.php:104, elementor/product-slider/class.php:164
+msgid "Product Filtering"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:268, elementor/product-fullscreen-grid/class.php:163
+msgid "Number of Items"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:285, elementor/product-carousel/class.php:181, elementor/product-fullscreen-grid/class.php:261, elementor/product-grid/class.php:124, elementor/product-list/class.php:127, elementor/product-slider/class.php:187
+msgid "Bestseller"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:286, elementor/product-carousel/class.php:182, elementor/product-fullscreen-grid/class.php:262, elementor/product-grid/class.php:125, elementor/product-list/class.php:128, elementor/product-slider/class.php:188
+msgid "Rating(High-Low)"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:287, elementor/product-carousel/class.php:183, elementor/product-fullscreen-grid/class.php:263, elementor/product-grid/class.php:126, elementor/product-list/class.php:129, elementor/product-slider/class.php:189
+msgid "Price(Low-High)"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:288, elementor/product-carousel/class.php:184, elementor/product-fullscreen-grid/class.php:264, elementor/product-grid/class.php:127, elementor/product-list/class.php:130, elementor/product-slider/class.php:190
+msgid "Price(High-Low)"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:289, elementor/product-carousel/class.php:185, elementor/product-fullscreen-grid/class.php:265, elementor/product-grid/class.php:128, elementor/product-list/class.php:131, elementor/product-slider/class.php:191
+msgid "Random(Changes on every page load)"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:297, elementor/product-carousel/class.php:193, elementor/product-fullscreen-grid/class.php:273, elementor/product-grid/class.php:136, elementor/product-isotope/class.php:147, elementor/product-list/class.php:139, elementor/product-slider/class.php:199
+msgid "Hide Out-of-stock Products"
+msgstr ""
+
+#: elementor/product-advanced-grid/class.php:305, elementor/product-carousel/class.php:201, elementor/product-fullscreen-grid/class.php:281, elementor/product-grid/class.php:144, elementor/product-list/class.php:147, elementor/product-slider/class.php:207
+msgid "Display only Featured Products"
+msgstr ""
+
+#: elementor/product-advanced-grid/view-1.php:58, elementor/product-advanced-grid/view-4.php:64, elementor/product-carousel/view.php:53, elementor/product-fullscreen-grid/view-1.php:58, elementor/product-fullscreen-grid/view-4.php:64, elementor/product-grid/view.php:77, elementor/product-list/view.php:68, elementor/product-slider/view.php:52
+msgid "No products available"
+msgstr ""
+
+#: elementor/product-advanced-grid/view-3.php:39, elementor/product-advanced-grid/view-4.php:41, elementor/product-fullscreen-grid/view-3.php:39, elementor/product-fullscreen-grid/view-4.php:41, elementor/product-grid/view.php:26
+msgid "See More"
+msgstr ""
+
+#: elementor/product-box/class.php:19
+msgid "Product Box"
+msgstr ""
+
+#: elementor/product-box/class.php:50
+msgid "Product"
+msgstr ""
+
+#: elementor/product-box/class.php:90
+msgid "Replace Product Image"
+msgstr ""
+
+#: elementor/product-box/class.php:96
+msgid "Product Thumbnail Size"
+msgstr ""
+
+#: elementor/product-carousel/class.php:19
+msgid "Product Carousel"
+msgstr ""
+
+#: elementor/product-carousel/class.php:138, elementor/product-fullscreen-grid/class.php:170, elementor/product-grid/class.php:67, elementor/product-list/class.php:61, elementor/product-slider/class.php:144
+msgid "Custom Product ID"
+msgstr ""
+
+#: elementor/product-carousel/class.php:146, elementor/product-fullscreen-grid/class.php:179, elementor/product-grid/class.php:75, elementor/product-list/class.php:69, elementor/product-slider/class.php:152
+msgid "Product ID's, seperated by commas"
+msgstr ""
+
+#: elementor/product-carousel/class.php:147, elementor/product-grid/class.php:76, elementor/product-list/class.php:70, elementor/product-slider/class.php:153
+msgid "Put the comma seperated ID's here eg. 23,26,89"
+msgstr ""
+
+#: elementor/product-carousel/class.php:164, elementor/product-categories-slider/class.php:114, elementor/product-categories/class.php:116, elementor/product-grid/class.php:107, elementor/product-list/class.php:110, elementor/product-slider/class.php:170
+msgid "Number of items"
+msgstr ""
+
+#: elementor/product-carousel/class.php:273, elementor/product-categories-slider/class.php:191, elementor/product-slider/class.php:279
+msgid "Navigation Dots"
+msgstr ""
+
+#: elementor/product-carousel/class.php:277, elementor/product-categories-slider/class.php:195, elementor/product-slider/class.php:283
+msgid "Enable or disable navigation dots. Default: Off"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:19
+msgid "Product Categories Slider"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:54, elementor/product-categories/class.php:53
+msgid "Category layout Style"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:67, elementor/product-categories/class.php:66, widgets/product-cat.php:171
+msgid "Select Categories"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:76, elementor/product-categories/class.php:74
+msgid "Image Show"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:77, elementor/product-categories-slider/class.php:85, elementor/product-categories-slider/class.php:93, elementor/product-categories-slider/class.php:101, elementor/product-categories/class.php:75, elementor/product-categories/class.php:83, elementor/product-categories/class.php:91, elementor/product-categories/class.php:100
+msgid "Yes"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:78, elementor/product-categories-slider/class.php:86, elementor/product-categories-slider/class.php:94, elementor/product-categories-slider/class.php:102, elementor/product-categories/class.php:76, elementor/product-categories/class.php:84, elementor/product-categories/class.php:92, elementor/product-categories/class.php:101
+msgid "No"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:84, elementor/product-categories/class.php:82
+msgid "Hide Empty Category"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:92, elementor/product-categories/class.php:90
+msgid "Product Count Show"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:100, elementor/product-categories/class.php:99
+msgid "Show Description"
+msgstr ""
+
+#: elementor/product-categories-slider/class.php:108, elementor/product-categories/class.php:110
+msgid "Product Text"
+msgstr ""
+
+#: elementor/product-categories/class.php:19
+msgid "Product Categories"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:19
+msgid "Product Fullscreen Grid"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:134, elementor/product-isotope/class.php:66, inc/post-meta.php:67, inc/post-meta.php:79
+msgid "Layout 1"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:135, elementor/product-isotope/class.php:67, inc/post-meta.php:68, inc/post-meta.php:80
+msgid "Layout 2"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:136, elementor/product-isotope/class.php:68, inc/post-meta.php:69, inc/post-meta.php:81
+msgid "Layout 3"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:137, elementor/product-isotope/class.php:69, inc/post-meta.php:70, inc/post-meta.php:82
+msgid "Layout 4"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:180
+msgid "Put the comma seperated product ID's here eg. 23,26,89. Please put the exact 7(seven) ID's, not more/less than that"
+msgstr ""
+
+#: elementor/product-fullscreen-grid/class.php:214, elementor/product-grid/class.php:52, elementor/product-slider/class.php:88
+msgid "View All link Display at Top"
+msgstr ""
+
+#: elementor/product-grid/class.php:19
+msgid "Product Grid"
+msgstr ""
+
+#: elementor/product-grid/class.php:90, elementor/product-list/class.php:84
+msgid "Display only sale price"
+msgstr ""
+
+#: elementor/product-isotope/class.php:19
+msgid "Product Isotope"
+msgstr ""
+
+#: elementor/product-isotope/class.php:70, inc/post-meta.php:83
+msgid "Layout 5"
+msgstr ""
+
+#: elementor/product-isotope/class.php:97
+msgid "Navigation Type"
+msgstr ""
+
+#: elementor/product-isotope/class.php:99
+msgid "Selected Items"
+msgstr ""
+
+#: elementor/product-isotope/class.php:100
+msgid "Selected Categories"
+msgstr ""
+
+#: elementor/product-isotope/class.php:107
+msgid "Items to Show"
+msgstr ""
+
+#: elementor/product-isotope/class.php:109, elementor/product-isotope/class.php:260
+msgid "Featured"
+msgstr ""
+
+#: elementor/product-isotope/class.php:110, elementor/product-isotope/class.php:261
+msgid "New"
+msgstr ""
+
+#: elementor/product-isotope/class.php:111, elementor/product-isotope/class.php:262
+msgid "Popular"
+msgstr ""
+
+#: elementor/product-isotope/class.php:112, elementor/product-isotope/class.php:264
+msgid "Best Rated"
+msgstr ""
+
+#: elementor/product-isotope/class.php:113, elementor/product-isotope/class.php:263
+msgid "Sale"
+msgstr ""
+
+#: elementor/product-isotope/class.php:122
+msgid "Categories to Show"
+msgstr ""
+
+#: elementor/product-isotope/class.php:125
+msgid "If empty then all categories will be displayed"
+msgstr ""
+
+#: elementor/product-isotope/class.php:131, widgets/post.php:107
+msgid "Category"
+msgstr ""
+
+#: elementor/product-isotope/class.php:139
+msgid "Number of Products/Per Item"
+msgstr ""
+
+#: elementor/product-isotope/class.php:180
+msgid "View All link Display"
+msgstr ""
+
+#: elementor/product-isotope/class.php:188
+msgid "View All link Text"
+msgstr ""
+
+#: elementor/product-isotope/class.php:195
+msgid "Filter- ALL Button Display"
+msgstr ""
+
+#: elementor/product-isotope/view-1.php:50, elementor/product-isotope/view-2.php:30, elementor/product-isotope/view-4.php:52, elementor/product-isotope/view-5.php:30
+msgid "All"
+msgstr ""
+
+#: elementor/product-list/class.php:19
+msgid "Product List"
+msgstr ""
+
+#: elementor/product-list/class.php:92
+msgid "Image border"
+msgstr ""
+
+#: elementor/product-search/class.php:19
+msgid "Product Search"
+msgstr ""
+
+#: elementor/product-search/class.php:38
+msgid "Search Autocomplete"
+msgstr ""
+
+#: elementor/product-search/class.php:41
+msgid "Style 2 ( Width Image )"
+msgstr ""
+
+#: elementor/product-search/class.php:51
+msgid "Vertical Menu Display"
+msgstr ""
+
+#: elementor/product-search/class.php:60
+msgid "Autocomplete"
+msgstr ""
+
+#: elementor/product-slider/class.php:19
+msgid "Product Slider"
+msgstr ""
+
+#: elementor/sale-banner-slider/class.php:19
+msgid "Sale Banner Slider"
+msgstr ""
+
+#: elementor/sale-banner-slider/class.php:30
+msgid "Title Text 1"
+msgstr ""
+
+#: elementor/sale-banner-slider/class.php:36
+msgid "Title Text 2"
+msgstr ""
+
+#: elementor/sale-banner-slider/class.php:60, elementor/video/class.php:39, inc/post-meta.php:119
+msgid "Background Image"
+msgstr ""
+
+#: elementor/sale-banner-slider/class.php:80
+msgid "Slider Layout"
+msgstr ""
+
+#: elementor/sale-banner-slider/class.php:134
+msgid "Image box Height"
+msgstr ""
+
+#: elementor/text-with-button/class.php:19
+msgid "Text With Button"
+msgstr ""
+
+#: elementor/text-with-icon/class.php:19
+msgid "Icon Text"
+msgstr ""
+
+#: elementor/text-with-icon/class.php:61
+msgid "Icon Type"
+msgstr ""
+
+#: elementor/text-with-icon/class.php:64
+msgid "Custom Image"
+msgstr ""
+
+#: elementor/text-with-icon/class.php:80
+msgid "Recommended image size is 56x56 px.<br/>You can upload SVG format as well, to get SVG images click here: <a target=\"_blank\" href=\"https://www.flaticon.com/\">flaticon.com</a>"
+msgstr ""
+
+#: elementor/text-with-icon/class.php:97
+msgid "Link (Optional)"
+msgstr ""
+
+#: elementor/title/class.php:80
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/title/class.php:95
+msgid "Subtitle Typography"
+msgstr ""
+
+#: elementor/vertical-menu/class.php:19
+msgid "Vertical Menu"
+msgstr ""
+
+#: elementor/vertical-menu/class.php:35
+msgid "Display Icons"
+msgstr ""
+
+#: elementor/vertical-menu/class.php:54
+msgid "Menu Text Color"
+msgstr ""
+
+#: elementor/vertical-menu/class.php:61
+msgid "Menu Icon Color"
+msgstr ""
+
+#: elementor/vertical-menu/class.php:68
+msgid "Menu Text Hover Color"
+msgstr ""
+
+#: elementor/vertical-menu/class.php:75
+msgid "Menu Icon Hover Color"
+msgstr ""
+
+#: elementor/video/class.php:19
+msgid "Video"
+msgstr ""
+
+#: elementor/video/class.php:47
+msgid "Background Overlay"
+msgstr ""
+
+#: elementor/video/class.php:67
+msgid "Top/Bottom Spacing"
+msgstr ""
+
+#: elementor/video/class.php:91
+msgid "Video Label"
+msgstr ""
+
+#: elementor/video/class.php:97
+msgid "Video Link"
+msgstr ""
+
+#: elementor/video/class.php:99
+msgid "Enter any video link from external sources eg. http://www.youtube.com/watch?v=1iIZeIy7TqM"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:27, inc/demo-importer-ocdi.php:28, inc/demo-importer.php:51
+msgid "Home 1"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:34, inc/demo-importer-ocdi.php:35, inc/demo-importer.php:56
+msgid "Home 2"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:40, inc/demo-importer-ocdi.php:41, inc/demo-importer.php:61
+msgid "Home 3"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:46, inc/demo-importer-ocdi.php:47, inc/demo-importer.php:66
+msgid "Home 4"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:52, inc/demo-importer-ocdi.php:53, inc/demo-importer.php:71
+msgid "Home 5"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:58, inc/demo-importer-ocdi.php:59
+msgid "Home-6-New"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:64, inc/demo-importer-ocdi.php:65
+msgid "Home-7-New"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:70, inc/demo-importer-ocdi.php:71
+msgid "Home8"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:76, inc/demo-importer-ocdi.php:77
+msgid "Home9"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:82, inc/demo-importer-ocdi.php:83
+msgid "home10-jewellery/"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:88, inc/demo-importer-ocdi.php:89
+msgid "home11-winter"
+msgstr ""
+
+#: inc/demo-importer.php:36
+msgid "Install Demo Contents"
+msgstr ""
+
+#: inc/demo-importer.php:43
+msgid "Warning: All your old data will be lost if you install One Click demo data from here, so it is suitable only for a new website."
+msgstr ""
+
+#: inc/demo-importer.php:76
+msgid "Home 6 ( New )"
+msgstr ""
+
+#: inc/demo-importer.php:81
+msgid "Home 7 ( New )"
+msgstr ""
+
+#: inc/demo-importer.php:86
+msgid "Home 8 ( New )"
+msgstr ""
+
+#: inc/demo-importer.php:91
+msgid "Home 9 ( New )"
+msgstr ""
+
+#: inc/demo-importer.php:96
+msgid "home 10 jewellery ( New )"
+msgstr ""
+
+#: inc/demo-importer.php:101
+msgid "home 11 winter ( New )"
+msgstr ""
+
+#: inc/post-meta.php:26, inc/post-meta.php:27, inc/post-meta.php:39, inc/post-meta.php:56, inc/post-meta.php:66, inc/post-meta.php:78, inc/post-meta.php:98, inc/post-meta.php:108, inc/post-meta.php:118, inc/post-meta.php:138
+msgid "Default"
+msgstr ""
+
+#: inc/post-meta.php:29
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/post-meta.php:32
+msgid "Layouts"
+msgstr ""
+
+#: inc/post-meta.php:40
+msgid "Full Width"
+msgstr ""
+
+#: inc/post-meta.php:41
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/post-meta.php:42
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/post-meta.php:47
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/post-meta.php:53
+msgid "Top Bar"
+msgstr ""
+
+#: inc/post-meta.php:57, inc/post-meta.php:99, inc/post-meta.php:109, inc/post-meta.php:139
+msgid "Enable"
+msgstr ""
+
+#: inc/post-meta.php:58, inc/post-meta.php:100, inc/post-meta.php:110, inc/post-meta.php:140
+msgid "Disable"
+msgstr ""
+
+#: inc/post-meta.php:63
+msgid "Top Bar Layout"
+msgstr ""
+
+#: inc/post-meta.php:75
+msgid "Header Layout"
+msgstr ""
+
+#: inc/post-meta.php:84
+msgid "Layout 6"
+msgstr ""
+
+#: inc/post-meta.php:85
+msgid "Layout 7"
+msgstr ""
+
+#: inc/post-meta.php:86
+msgid "Layout 8"
+msgstr ""
+
+#: inc/post-meta.php:87
+msgid "Layout 9"
+msgstr ""
+
+#: inc/post-meta.php:88
+msgid "Layout 10"
+msgstr ""
+
+#: inc/post-meta.php:89
+msgid "Layout 11"
+msgstr ""
+
+#: inc/post-meta.php:95
+msgid "Banner"
+msgstr ""
+
+#: inc/post-meta.php:105
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/post-meta.php:115
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/post-meta.php:120
+msgid "Background Color"
+msgstr ""
+
+#: inc/post-meta.php:125
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/post-meta.php:127, inc/post-meta.php:132
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: inc/post-meta.php:130
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/post-meta.php:135
+msgid "Display Dark Footer"
+msgstr ""
+
+#: inc/post-meta.php:157
+msgid "Upload an icon. Supported image type: JPG, PNG, SVG"
+msgstr ""
+
+#: inc/social-share.php:53
+msgid "Share:"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:98
+msgid "Chose menu image"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:99
+msgid "Select"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:149
+msgid "Icon (jpg/png/svg)"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:150
+msgid "Change menu item image"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:150
+msgid "Set menu item image"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:153
+msgid "Upload Image"
+msgstr ""
+
+#: lib/navmenu-icon/init.php:154
+msgid "Remove"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:42
+msgid "Add New Sidebar"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:49
+msgid "Name"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:51
+msgid "Add"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:79
+msgid "Are you sure you want to remove this custom sidebar"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:80
+msgid "Operation failed"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:93
+msgid "Sidebar name can't be empty"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:96, lib/sidebar-generator/init.php:143
+msgid "Empty nonce"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:99, lib/sidebar-generator/init.php:146
+msgid "Invalid nonce"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:106
+msgid "Sidebar with the same name already exists. Please choose a different name"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:140
+msgid "Sidebar ID not found"
+msgstr ""
+
+#: widgets/about.php:18
+msgid "Metro: About"
+msgstr ""
+
+#: widgets/about.php:19
+msgid "Metro: About( Footer )"
+msgstr ""
+
+#: widgets/about.php:118
+msgid "Logo"
+msgstr ""
+
+#: widgets/about.php:122
+msgid "Logo Dark"
+msgstr ""
+
+#: widgets/post.php:19, widgets/post.php:20
+msgid "Metro: Posts"
+msgstr ""
+
+#: widgets/post.php:63
+msgid "Currently there are no posts to display"
+msgstr ""
+
+#: widgets/post.php:112
+msgid "Order by"
+msgstr ""
+
+#: widgets/post.php:117
+msgid "Number of Post"
+msgstr ""
+
+#: widgets/product-attr.php:20, widgets/product-attr.php:21
+msgid "Metro: Variation Swatches Attribute Filter"
+msgstr ""
+
+#: widgets/product-attr.php:177
+msgid "Attribute"
+msgstr ""
+
+#: widgets/product-cat.php:19, widgets/product-cat.php:20
+msgid "Metro: Product Categories"
+msgstr ""
+
+#: widgets/socials.php:18, widgets/socials.php:19
+msgid "Metro: Socials"
+msgstr ""
+
+#: widgets/socials.php:101
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/socials.php:105
+msgid "Twitter URL"
+msgstr ""
+
+#: widgets/socials.php:109
+msgid "Linkedin URL"
+msgstr ""
+
+#: widgets/socials.php:113
+msgid "Pinterest URL"
+msgstr ""
+
+#: widgets/socials.php:117
+msgid "Instagram URL"
+msgstr ""
+
+#: widgets/socials.php:121
+msgid "Github URL"
+msgstr ""
+
+#: widgets/socials.php:125
+msgid "Wordpress URL"
+msgstr ""
+
+#: widgets/socials.php:129
+msgid "YouTube URL"
+msgstr ""
+
+#: widgets/socials.php:133
+msgid "Rss Feed URL"
+msgstr ""

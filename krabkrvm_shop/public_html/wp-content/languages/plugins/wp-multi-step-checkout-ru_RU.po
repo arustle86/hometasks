@@ -1,0 +1,358 @@
+# Translation of Plugins - Multi-Step Checkout for WooCommerce - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Multi-Step Checkout for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-11 08:46:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Multi-Step Checkout for WooCommerce - Stable (latest release)\n"
+
+#. translators: 1: Woocommerce Accounts URL 2: Screenshot URL.
+#: includes/settings-array.php:38
+msgid " For removing the login step you need to uncheck the \"Allow customers to log into an existing account during checkout\" option on the <a href=\"%1$s\">WP Admin -> WooCommerce -> Settings -> Accounts</a> page. See <a href=\"%2$s\" target=\"_blank\">this screenshot</a>."
+msgstr "Для удаления шага входа на сайт вам необходимо снять флажок «Разрешить клиентам входить в существующую учетную запись во время оформления заказа» в <a href=\"%1$s\">Админ-панель -> WooCommerce -> Настройки -> Учетные записи</a> См. <a href=\"%2$s\" target=\"_blank\">этот скриншот</a>."
+
+#. Plugin Name of the plugin
+msgid "Multi-Step Checkout for WooCommerce"
+msgstr "Multi-Step Checkout for WooCommerce"
+
+#: includes/settings-array.php:234
+msgctxt "Frontend: error message"
+msgid "Please fix the errors on this step before moving to the next step"
+msgstr "Пожалуйста, исправьте ошибки на этом шаге, прежде чем переходить к следующему"
+
+#: includes/settings-array.php:90
+msgid "Add \"Address Review\" to the <code>Order</code> section"
+msgstr "Добавить \"Обзор адресов\" на шаге <code>Заказ</code>"
+
+#: wp-multi-step-checkout.php:206
+msgctxt "Alert Message: WooCommerce require"
+msgid "The <b>Multi-Step Checkout for WooCommerce</b> plugin is enabled, but it requires WooCommerce in order to work."
+msgstr "Плагин <b>Multi-Step Checkout for WooCommerce</b> включен, но для его работы требуется WooCommerce."
+
+#: includes/settings-array.php:127
+msgid "Each step will have a hash added to the URL. For example &quot;#login&quot; or &quot;#billing&quot;. This option, together with some &quot;History Change Trigger&quot; settings in the Google Tag Manager, allows Google Analytics to track each step as different pages."
+msgstr "К URL-адресу каждого шага будет добавлен хэш. Например: &quot;#login&quot; или &quot;#billing&quot;. Эта опция позволяет Google Analytics отслеживать каждый шаг как разные страницы."
+
+#: includes/settings-array.php:169
+msgid "Visited steps color"
+msgstr "Цвет посещенных шагов"
+
+#: includes/settings-array.php:126
+msgid "Change the URL for each step"
+msgstr "Изменять URL на каждом шаге"
+
+#: includes/settings-array.php:162
+msgid "Show a \"check\" sign for visited steps"
+msgstr "Показать галочку для посещенных шагов"
+
+#. translators: 1: Woocommerce Accounts URL 2: Screenshot URL.
+#: includes/settings-array.php:78
+msgid "Use the \"Account creation\" options on the <a href=\"%1$s\">WP Admin -> WooCommerce -> Settings -> Accounts & Privacy</a> page to modify the Registration form. See <a href=\"%2$s\" target=\"_blank\">this screenshot</a>."
+msgstr "Используйте настройки \"Создание учётной записи\" на странице <a href=\"%1$s\">Админ-панель -> WooCommerce -> Настройки -> Учетные записи и конфиденциальность</a>, чтобы изменить форму регистрации. Смотрите <a href=\"%2$s\" target=\"_blank\">этот скриншот</a>."
+
+#. translators: 1: field label 2: value
+#: includes/frm/class-form-fields.php:300
+msgid "The %1$s field accepts only a number. It was set to %2$s"
+msgstr "В поле %1$s можно ввести только число. Вы ввели %2$s"
+
+#. translators: 1: field label 2: value
+#: includes/frm/class-form-fields.php:287
+msgid "The %1$s field accepts only an integer value. It was set to %2$s"
+msgstr "В поле %1$s можно ввести только целое число. Вы ввели %2$s"
+
+#. translators: 1: field label 2: value
+#: includes/frm/class-form-fields.php:260
+#: includes/frm/class-form-fields.php:274
+msgid "Unrecognized %1$s. The value was reset to %2$s"
+msgstr "Неопознанно %1$s. Значение было сброшено на %2$s"
+
+#. translators: 1: field label 2: minimum value 3: maximum value 4: value
+#: includes/frm/class-form-fields.php:313
+msgid "%1$s accepts values between %2$s and %3$s. Your value was reset to %4$s"
+msgstr "В поле %1$s можно ввести значение между %2$s и %3$s. Ваше значение было сброшено до %4$s"
+
+#: includes/admin-side.php:155
+msgid "The \"Deactivate German Market Hooks\" option on the <b>WP Admin -> WooCommerce -> German Market -> Ordering</b> page will interfere with the proper working of the <b>Multi-Step Checkout for WooCommerce</b> plugin. Please consider turning the option off."
+msgstr "Параметр \"Deactivate German Market Hooks\" <b>WP Admin -> WooCommerce -> German Market -> Ordering</b> будет мешать правильной работе <b>Multi-Step Checkout for WooCommerce</b>. Пожалуйста, подумайте об отключении этой опции."
+
+#: includes/admin-side.php:148
+msgid "The Suki theme adds some HTML elements to the checkout page in order to create the two columns. This additional HTML messes up the steps from the multi-step checkout plugin. Unfortunately the multi-step checkout plugin isn't compatibile with the Suki theme."
+msgstr "Тема Suki добавляет некоторые HTML-элементы на страницу оформления заказа, чтобы создать два столбца. Этот дополнительный HTML-код сбивает с толку шаги плагина поэтотапного заказа. К сожалению, плагин поэтотапного заказа не совместим с темой Suki."
+
+#: includes/settings-array.php:386
+msgid "Choose a Payment Gateway"
+msgstr "Выберите способ оплаты"
+
+#: includes/settings-array.php:240
+msgid "AND sign"
+msgstr "Символ И"
+
+#: includes/settings-array.php:242
+msgid "&"
+msgstr "и"
+
+#: includes/settings-array.php:244
+msgid "The sign between two unified steps. For example \"Billing & Shipping\""
+msgstr "Знак между двумя объединёнными шагами. Например \"Оплата и Доставка\""
+
+#: includes/settings-array.php:146
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/settings-array.php:55
+msgid "Additional Elements"
+msgstr "Дополнительные элементы"
+
+#: includes/settings-array.php:97
+msgid "Functionality"
+msgstr "Функциональность"
+
+#: includes/right_columns.php:105
+msgid "Rate it on WordPress.org"
+msgstr "Оцените на WordPress.org"
+
+#: includes/right_columns.php:101
+msgid "Like this Plugin?"
+msgstr "Нравится этот плагин?"
+
+#: includes/right_columns.php:93
+msgid "Upgrade to PRO"
+msgstr "Обновиться до Pro"
+
+#: includes/settings-array.php:142
+msgid "Template"
+msgstr "Шаблон"
+
+#: includes/settings-array.php:148
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: includes/admin-side.php:72
+msgid "Design"
+msgstr "Дизайн"
+
+#: includes/settings-array.php:103
+msgid "Validate the fields during each step"
+msgstr "Проверять поля на каждом шаге"
+
+#: wp-multi-step-checkout.php:266
+msgid "View plugin's settings"
+msgstr "Просмотр настроек плагина"
+
+#: includes/settings-array.php:23
+msgid "Which Steps to show"
+msgstr "Какие шаги показать"
+
+#: includes/right_columns.php:80
+msgid "WooCommerce Multi-Step Checkout Pro"
+msgstr "WooCommerce Multi-Step Checkout Pro"
+
+#: includes/right_columns.php:104
+msgid "Share your opinion with the world on the WordPress.org Plugin Repository."
+msgstr "Поделитесь своим мнением со всем миром в репозитории плагинов WordPress.org."
+
+#: includes/settings-array.php:67
+msgid "Show registration form in the Login step"
+msgstr "Показывать форму регистрации на шаге авторизации"
+
+#: includes/settings-array.php:111
+msgid "Clickable Steps"
+msgstr "Кликабельные шаги"
+
+#: includes/settings-array.php:147
+msgid "Material Design"
+msgstr "Material Design"
+
+#: includes/admin-side.php:114
+msgid "Only available in <a href=\"%1$s\" target=\"_blank\">PRO version</a>"
+msgstr "Доступно только в <a href=\"%1$s\" target=\"_blank\">PRO версии</a>"
+
+#: includes/settings-array.php:236
+msgid "This is an error message shown in the frontend"
+msgstr "Это сообщение об ошибке, отображаемое во фронтэнде"
+
+#: includes/settings-array.php:157
+msgid "By default the plugin tries to use the theme's design for the buttons. If this fails, enable this option in order to use the plugin's button style"
+msgstr "По умолчанию плагин пытается использовать дизайн темы для кнопок. Если это не удается, включите эту опцию, чтобы использовать стиль кнопок плагина"
+
+#: includes/settings-array.php:232
+msgid "Please fix the errors on this step before moving to the next step"
+msgstr "Пожалуйста, исправьте ошибки на этом шаге, прежде чем переходить к следующему"
+
+#: includes/settings-array.php:154
+msgid "Use the plugin's buttons"
+msgstr "Использовать кнопки плагина"
+
+#: includes/settings-array.php:83
+msgid "Add product thumbnails to the Order Review section"
+msgstr "Добавить миниатюры товаров в раздел \"Просмотр заказа\""
+
+#: includes/settings-array.php:104
+msgid "The default WooCommerce validation is done when clicking the Place Order button. With this option the validation is performed when trying to move to the next step"
+msgstr "Проверка WooCommerce по умолчанию выполняется при нажатии кнопки «Подтвердить заказ». С этой опцией проверка выполняется при попытке перейти к следующему шагу."
+
+#: includes/settings-array.php:71
+msgid "The registration form will be shown next to the login form, it will not replace it"
+msgstr "Форма регистрации будет отображаться рядом с формой входа"
+
+#: includes/settings-array.php:112
+msgid "The user can click on the steps in order to get to the next one."
+msgstr "Пользователь может щёлкнуть на шаге, чтобы перейти к нему."
+
+#: includes/settings-array.php:247
+msgid "Use WPML to translate the text on the Steps and Buttons"
+msgstr "Использовать WPML для перевода текста шагов и кнопок"
+
+#: includes/settings-array.php:251
+msgid "For a multilingual website the translations from WPML will be used instead of the ones in this form"
+msgstr "Для многоязычного веб-сайта будут использоваться переводы из WPML вместо переводов из этой формы"
+
+#: wp-multi-step-checkout.php:74 wp-multi-step-checkout.php:81
+msgid "An error has occurred. Please reload the page and try again."
+msgstr "Произошла ошибка. Пожалуйста, обновите страницу и повторите попытку."
+
+#: includes/settings-array.php:48
+msgid "Show the <code>Order</code> and the <code>Payment</code> steps together"
+msgstr "Совместное отображение шагов <code>Заказ</code> и <code>Оплата</code>"
+
+#: includes/settings-array.php:61
+msgid "Show the <code>Back to Cart</code> button"
+msgstr "Показать кнопку <code>Вернуться в корзину</code>"
+
+#: includes/settings-array.php:42
+msgid "Show the <code>Billing</code> and the <code>Shipping</code> steps together"
+msgstr "Совместное отображение шагов <code>Оплата</code> и <code>Доставка</code>"
+
+#: includes/settings-array.php:35
+msgid "Show the <code>Login</code> step"
+msgstr "Показать шаг <code>Вход</code>"
+
+#: includes/settings-array.php:29
+msgid "Show the <code>Shipping</code> step"
+msgstr "Показать шаг <code>Доставка</code>"
+
+#: includes/settings-array.php:119
+msgid "Enable the keyboard navigation"
+msgstr "Включить навигацию с клавиатуры"
+
+#: includes/settings-array.php:120
+msgid "Use the keyboard's left and right keys to move between the checkout steps"
+msgstr "Использовать клавиши клавиатуры влево-вправо для перехода между шагами оформления заказа."
+
+#: includes/settings-array.php:226
+msgid "Next"
+msgstr "Следующий"
+
+#: includes/admin-template.php:39
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: includes/admin-side.php:107
+msgid "Your settings have been saved."
+msgstr "Ваши настройки сохранены."
+
+#: includes/admin-side.php:71
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: includes/admin-side.php:73
+msgid "Text on Steps and Buttons"
+msgstr "Текст шагов и кнопок"
+
+#: includes/settings-array.php:220
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: includes/settings-array.php:208
+msgid "Back to cart"
+msgstr "Вернуться в корзину"
+
+#: includes/settings-array.php:214
+msgid "Skip Login"
+msgstr "Пропустить вход"
+
+#: includes/settings-array.php:202 includes/settings-array.php:204
+#: includes/settings-array.php:289 includes/settings-array.php:359
+msgid "Payment"
+msgstr "Оплата"
+
+#: includes/settings-array.php:372 includes/settings-array.php:398
+#: includes/settings-array.php:413
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: wp-multi-step-checkout.php:266
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/settings-array.php:136
+msgid "Main Color"
+msgstr "Основной цвет"
+
+#. Author URI of the plugin
+msgid "https://www.silkypress.com"
+msgstr "https://www.silkypress.com"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wp-multi-step-checkout/"
+msgstr "https://ru.wordpress.org/plugins/wp-multi-step-checkout/"
+
+#: includes/settings-array.php:190 includes/settings-array.php:192
+#: includes/settings-array.php:277
+msgid "Shipping"
+msgstr "Доставка"
+
+#. Author of the plugin
+msgid "SilkyPress"
+msgstr "SilkyPress"
+
+#: includes/settings-array.php:196 includes/settings-array.php:198
+#: includes/settings-array.php:283
+msgid "Order"
+msgstr "Заказ"
+
+#: includes/form-checkout.php:55 includes/settings-array.php:324
+msgid "You must be logged in to checkout."
+msgstr "Необходимо войти для оформления заказа."
+
+#: includes/settings-array.php:184 includes/settings-array.php:186
+#: includes/settings-array.php:271
+msgid "Billing"
+msgstr "Оплата"
+
+#. Description of the plugin
+msgid "Nice multi-step checkout for your WooCommerce store"
+msgstr "Поэтапное оформление заказа для вашего магазина WooCommerce"
+
+#: includes/settings-array.php:178 includes/settings-array.php:180
+msgid "Login"
+msgstr "Вход"
+
+#: includes/settings-array.php:315
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr "Если вы уже оформляли заказ на нашем сайте, пожалуйста, введите свои данные ниже. Если вы являетесь новым клиентом, пожалуйста, заполните платёжные данные в соответствующем разделе."
+
+#: includes/settings-array.php:216
+msgctxt "Frontend: button label"
+msgid "Skip Login"
+msgstr "Пропустить вход"
+
+#: includes/settings-array.php:228
+msgctxt "Frontend: button label"
+msgid "Next"
+msgstr "Следующий"
+
+#: includes/settings-array.php:222
+msgctxt "Frontend: button label"
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: includes/settings-array.php:210
+msgctxt "Frontend: button label"
+msgid "Back to cart"
+msgstr "Вернуться в корзину"

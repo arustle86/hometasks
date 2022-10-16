@@ -1,0 +1,43 @@
+.redux-dev-mode-notice-container,
+.redux-timer {
+	display: none;
+}
+.redux-container-image_select .redux-image-select {
+	margin: 0 0 10px !important;
+}
+.redux-custom-inline .redux-container-checkbox li {
+	display: inline;
+	padding-right: 15px;
+	width: inherit !important;
+}
+.redux-custom-inline .redux-container-checkbox li label {
+	width: inherit;
+}
+.rt-postmeta-container .h200 {
+	height: 200px !important;
+}
+.rt-widget-field .rt_metabox_image .custom_preview_image {
+    border: 2px solid #d1d1d1;
+    padding: 5px;
+}
+
+.appearance_page_pt-one-click-demo-import .ocdi__gl-item {
+    max-width: 446px;
+}
+.appearance_page_pt-one-click-demo-import .ui-dialog-buttonset .button-primary {
+	background: #008ec2;
+	border-color: #006799;
+	color: #fff;
+}
+.appearance_page_pt-one-click-demo-import .ui-widget-header .ui-dialog-titlebar-close::before {
+	content: none;
+}
+
+#rtwpvs-settings-wrapper #style-wrapper {
+	display: none !important;
+}
+
+.select2-container--default .select2-selection--single {
+    min-width: 126px !important;
+    min-height: 30px !important;
+}

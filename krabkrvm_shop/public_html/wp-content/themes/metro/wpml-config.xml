@@ -1,0 +1,11 @@
+<wpml-config>
+    <admin-texts>
+        <key name="metro">
+            <key name="phone" />>
+            <key name="copyright_text" />
+            <key name="error_text_1" />
+            <key name="error_text_2" />
+            <key name="error_buttontext" />
+        </key>
+    </admin-texts>
+</wpml-config>
