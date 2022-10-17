@@ -1,0 +1,11 @@
+"use strict"; 
+
+let item = 3;
+switch(item) {
+    case 1: console.log("item = 1"); break;
+    case 2: console.log("item = 2"); break;
+    case 3: console.log("item = 3"); break;
+    case 4: console.log("item = 4"); break;
+    case 5: console.log("item = 5"); break;
+    default: console.log("item имеет иное значение");
+}
