@@ -1,11 +1,14 @@
 "use strict"
 
-let showMassage = function() {
-    console.log("Привет, Мир!");
-};
-
-let show = showMassage;
-showMassage();
-
-console.log(showMassage);
-console.log(typeof showMassage);
+function agreeCookies (question, yes, no) {
+    if (confirm(question)) yes();
+    else no();
+}
+agreeCookies ("Наш сайт использует cookies, требуется Ваше согласие чтобы продолжить",
+    function () {
+        console.log("Вы согласились");
+    },
+        function () {
+            console.log("Вы отказались");
+        }
+);
