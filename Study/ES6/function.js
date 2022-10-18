@@ -1,12 +1,8 @@
 "use strict"
 
-function abc(x) {
-    return (x < 0) ? -x : x;
+function div(a, b) {
+    if (b == 0) return Infinity;
+    return a / b;
 }
-
-    function sum (a, b) {
-        return a + b;
-    }
-
-        let res = sum(5, 11);
-        console.log(res);
+    let res = div(14, 0);
+    console.log(res);
