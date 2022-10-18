@@ -1,28 +1,11 @@
-"use stricr"
+"use strict"
 
-function showPrimes(n) {
-    nextPrime: for (let i = 2; i < n;  i++) {
-        for (let j = 2; j < i; j++) {
-        if (i % j == 0) continue nextPrime;
-        }
-    console.log(i);
-    }
-}
-showPrimes(10);
+let showMassage = function() {
+    console.log("Привет, Мир!");
+};
 
+let show = showMassage;
+showMassage();
 
-function showPrimes(n) {
-    for (let i = 2; i < n; i++) {
-        if (!isPrime(i)) continue;
-            console.log(i);
-    }
-}
-
-function isPrime(n) {
-    for (let i = 2; i < n; i++) {
-        if (n % i == 0) return false;
-    }
-        return true;
-}
-
-showPrimes(10);
+console.log(showMassage);
+console.log(typeof showMassage);
