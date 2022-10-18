@@ -1,8 +1,12 @@
 "use strict"
 
-out_log(1);
-out_log(true);
-
-function out_log(msg) {
-    console.log(msg);
+function abc(x) {
+    return (x < 0) ? -x : x;
 }
+
+    function sum (a, b) {
+        return a + b;
+    }
+
+        let res = sum(5, 11);
+        console.log(res);
