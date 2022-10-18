@@ -1,8 +1,6 @@
 "use strict"
 
-const PSW = "password";
-    let psw = null;
-        do {
-            psw = prompt ("Введите пароль", "");
-        } while (psw != PSW);
-            console.log("Вы вошли в систему");
+for (let i = -5; i <= 5; ++i) {
+    if(i == 0) continue;
+    console.log("i = " + i);
+}
