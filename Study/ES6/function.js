@@ -1,14 +1,13 @@
 "use strict"
 
-function agreeCookies (question, yes, no) {
-    if (confirm(question)) yes();
-    else no();
-}
-agreeCookies ("Наш сайт использует cookies, требуется Ваше согласие чтобы продолжить",
-    function () {
-        console.log("Вы согласились");
-    },
-        function () {
-            console.log("Вы отказались");
+let age = prompt("Сколько Вам лет?", 18);
+ 
+    let setAcces = (age < 18) ?
+
+        function() {
+            console.log("Вы слишком молоды");
+        } : function() {
+            console.log("Всё ок");
         }
-);
+
+setAcces();
