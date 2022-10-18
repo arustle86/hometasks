@@ -4,5 +4,8 @@
 //     console.log("Это анонимная функция");
 // }
 
-let anonym = (a, b) => a + b;
-    console.log(anonym(15, 4));
+let show = (form, massage) => {
+    let text = form + ": " + massage;
+        return text;
+}
+        console.log(show("Образование", "весч"));
