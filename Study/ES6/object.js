@@ -1,10 +1,10 @@
 "use strict";
-
-let car = createCar ("toyota", "black");
-    function createCar (model, color) {
-        return {
-            model,
-            color
-        };
-    }
-    console.log(car);
+    let phoneCodes = {
+        "7": "Russia",
+        "49": "USA",
+        "33": 'Uganda',
+        "1": "Japan"
+    };
+        for (let code in phoneCodes) {
+            console.log(code);
+        }
