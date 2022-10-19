@@ -1,10 +1,12 @@
-"use strict";
-    let phoneCodes = {
-        "7": "Russia",
-        "49": "USA",
-        "33": 'Uganda',
-        "1": "Japan"
+    "use strict";
+
+    let book = {
+        title: "Название",
+        author: "Автор",
+        nPages: 0,
+        price: 22
     };
-        for (let code in phoneCodes) {
-            console.log(code);
-        }
+
+    book.nPages = 80;
+
+    console.log(book.nPages);
