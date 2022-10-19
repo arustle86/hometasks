@@ -11,4 +11,6 @@ let book = {
 
     console.log(book.title);
     console.log(book.isSalled);
+    console.log(book.nPages);
     console.log(book);
+    console.log("nPages" in book);
