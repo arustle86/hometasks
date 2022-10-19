@@ -1,11 +1,10 @@
 "use strict";
 
-let car = createCar("toyota", "black");
+let car = createCar ("toyota", "black");
     function createCar (model, color) {
         return {
-            model: model,
-            color: color
+            model,
+            color
         };
     }
-    console.log(car.model);
-    console.log(car.color);
+    console.log(car);
