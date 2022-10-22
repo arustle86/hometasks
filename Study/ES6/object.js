@@ -1,9 +1,11 @@
     "use strict";
 
-    let newKey = "color";
-        let car = {
-            model: "toyota",
-            [newKey]: "black"
+    let car = createCar("toyota", "black");
+        function createCar (model, color) {
+            return {
+                model: model,
+                color: color
+            }
         };
-    console.log(car[newKey]);
-    console.log(car.color);
+
+                console.log(car.model, car.color);
