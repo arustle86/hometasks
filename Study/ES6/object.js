@@ -1,13 +1,15 @@
 "use strict";
 
-    function Book(title, author, price) {
+    function Book(title, author) {
+
+        if (new.target == undefined)
+            return new Book (title, author);
+
         this.title = title;
         this.author = author;
-        this.price = price;
+        this.price = 119;
+        return this;
     }
 
-    let book1 = new Book("Муму", "Тургенев", 299);
-    console.log( book1 );
-
-    let book2 = new Book("Онегин", "Пушкин", 499);
-    console.log( book2 );
+    let book = Book("Онегин", "Пушкин");
+    console.log(book);
