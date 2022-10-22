@@ -1,11 +1,12 @@
-    "use strict";
+"use strict";
 
-    let book = {
+    let book1 = {
         title: "My-My",
-        author: "Тургенев",
-        price: 100,
-        nPages: 282
-    }
-        for (let key in book) {
-            console.log(key + ": " + book[key]);
-        }
+        author: "Автор",
+        price: 122,
+        sheets: 547
+    };
+        let book2 = book1;
+        book2.title = "Алхимик";
+
+        console.log(book1.title);
