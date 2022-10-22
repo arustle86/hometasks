@@ -1,11 +1,9 @@
     "use strict";
 
-    let book = {
-        title: "Название",
-        author: "Автор",
-        nPages: 0,
-        price: 22
-    };
-
-        let keyName = prompt("Что вы хотите узнать о книге?", "");
-            console.log(book[keyName]);
+    let newKey = "color";
+        let car = {
+            model: "toyota",
+            [newKey]: "black"
+        };
+    console.log(car[newKey]);
+    console.log(car.color);
