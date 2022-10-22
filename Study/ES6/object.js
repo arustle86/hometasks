@@ -3,13 +3,18 @@
     let car = {
         model: "toyota",
         color: "black",
-        go: function() {
-            console.log("Машина едет");
+        go(driverName) {
+            console.log("Водитель " + driverName + ": машина едет");
         },
-        stop: function() {
+        stop() {
             console.log("Машина остановилась");
+        },
+        getModel(){
+            return this.model;
         }
     };
 
-    car.go();
+
+    car.go("Maxim");
     car.stop();
+    console.log(car.getModel());
