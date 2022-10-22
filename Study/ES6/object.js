@@ -11,10 +11,14 @@
         },
         getModel(){
             return this.model;
+        },
+        getColor(){
+            return this.color;
         }
     };
 
 
-    car.go("Maxim");
+    car.go("Леонид");
     car.stop();
     console.log(car.getModel());
+    console.log(car.getColor());
