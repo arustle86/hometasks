@@ -7,6 +7,5 @@
         price: 22
     };
 
-    book.nPages = 80;
-
-    console.log(book.nPages);
+        let keyName = prompt("Что вы хотите узнать о книге?", "");
+            console.log(book[keyName]);
