@@ -1,7 +1,17 @@
 "use strict";
 
-let ar = ["Яблоко", {name : "John"}, 
-            true, 
-            function() {alert("Привет");}];
+    let matrix = [
+        [1, 2, 3],
+        [4, 5, 6],
+        [7, 8, 9]
+    ];
 
-console.log(ar[1]);
+    matrix [1][1] = 0;
+
+        for (let row of matrix) {
+            let cols = "";
+                for (let val of row) {
+                    cols += val + " ";
+                }
+                console.log(cols);
+        }
